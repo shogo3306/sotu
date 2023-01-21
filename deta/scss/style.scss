@@ -1,0 +1,1952 @@
+@charset "UTF-8";
+@use "mixin" as mix;
+
+// 変数
+$bc-color: #e3e6e1;
+
+html {
+    box-sizing: border-box;
+    font-weight: 200;
+    font-size: 12px;
+    font-family: 'さわらびゴシック', sans-serif;
+
+    @include mix.mq(sp) {
+        font-size: 16px;
+    }
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 300;
+    margin: 15% auto;
+
+    @include mix.mq(sp) {
+        font-size: 20px;
+        margin: 4rem auto;
+    }
+}
+
+h3 {
+    font-weight: 500;
+}
+
+section {
+    margin-bottom: 5rem;
+}
+
+img {
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.img-pc {
+    display: none;
+
+    @include mix.mq(sp) {
+        display: block;
+    }
+}
+
+.img-mb {
+    @include mix.mq(sp) {
+        display: none;
+    }
+}
+
+.header {
+    padding: 20px;
+
+    &__nav {
+        display: none;
+
+        @include mix.mq(sp) {
+            display: block;
+        }
+
+        &-group {
+            @include mix.mq(sp) {
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+
+        &-link-item {
+            @include mix.mq(sp) {
+                list-style: none;
+                display: inline-block;
+                padding: 20px;
+                font-size: 1.6vw;
+            }
+        }
+
+
+        & ul {
+
+            & li {
+                @include mix.mq(sp) {
+                    list-style: none;
+                    text-align: center;
+                    transition: all 0.5s ease-out;
+                    display: flex;
+                    align-items: center;
+
+                    &:hover {
+                        transform: scale(1.15);
+                    }
+                }
+            }
+
+            & a {
+                @include mix.mq(sp) {
+                    text-decoration: none;
+                    color: #333;
+                }
+            }
+
+        }
+    }
+
+
+    &__inner {
+        width: 100%;
+        align-items: center;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto;
+
+        @include mix.mq(sp) {
+            margin: 0 15px;
+            height: 100px;
+        }
+    }
+
+    &__title {
+        width: 50px;
+        color: #000;
+
+        @include mix.mq(sp) {
+            display: none;
+        }
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 10%;
+                height: auto;
+                max-width: 80px;
+            }
+        }
+    }
+
+    &__nav-mb {
+        list-style-type: none;
+
+        @include mix.mq(sp) {
+            display: none;
+        }
+    }
+
+}
+
+
+/* コンタクトボタン */
+.btn,
+a.btn,
+button.btn {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 0.2;
+    position: relative;
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #212529;
+    border-radius: 0.5rem;
+}
+
+a.btn-border {
+    border: 1px solid #000;
+    border-radius: 0;
+    background: #fff;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 5px;
+        height: 100%;
+        content: '';
+        -webkit-transition: all .3s;
+        transition: all .3s;
+        background: #000;
+    }
+
+    &:hover {
+        color: #fff;
+        background: #000;
+
+        &::before {
+            background: #fff;
+        }
+    }
+}
+
+.bottom-menu {
+    @include mix.mq(sp) {
+        display: none;
+    }
+
+    &__text {
+        font-size: 10px;
+    }
+
+    & li a {
+        display: block;
+        color: #342e2b;
+        /*アイコン＆文字の色*/
+        padding-bottom: 5px;
+        line-height: 10px;
+        text-decoration: none;
+
+        &:hover {
+            color: #a9a9a9;
+        }
+    }
+
+    &__flex {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__img {
+        width: 30%;
+        margin: 0 auto;
+        padding-bottom: 10%;
+    }
+}
+
+/*文字大きさ*/
+ul.bottom-menu {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 65px;
+    /*高さ*/
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    /*背景色*/
+    z-index: 30;
+
+    & li {
+        float: left;
+        width: 20%;
+        background-color: #f5f5f5;
+        list-style-type: none;
+        text-align: center;
+        font-size: 25px;
+
+    }
+}
+
+.top {
+    &__position {
+        position: relative;
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    &__box {
+        display: flex;
+        justify-content: center;
+        line-height: 48px;
+        letter-spacing: 0.5em;
+        width: fit-content;
+        margin: 100px auto 0;
+    }
+
+    &__text {
+        padding-top: 98px;
+        writing-mode: vertical-rl;
+
+        &-sec {
+            writing-mode: vertical-rl;
+        }
+    }
+
+    &__img-first {
+        max-width: 600px;
+        width: 80%;
+        height: auto;
+        margin-top: -9%;
+        animation: fadeIn 7s ease 0s 1 normal;
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 80%;
+                position: absolute;
+                bottom: 10%;
+                height: auto;
+                animation: fadeIn 7s ease 0s 1 normal;
+            }
+        }
+
+    }
+
+    &__maru_1 {
+        position: absolute;
+        top: 3%;
+        left: 38%;
+        width: 6rem;
+
+        _::-webkit-full-page-media,
+        _:future,
+        :root & {
+            top: -4%;
+        }
+
+        @include mix.mq(sp) {
+            top: 13%;
+            left: 35%;
+            width: 6rem;
+
+            _::-webkit-full-page-media,
+            _:future,
+            :root & {
+                top: 13%;
+                width: 5rem;
+                left: 35%;
+            }
+        }
+
+        @include mix.mq(pc) {
+            top: 15%;
+            left: 30%;
+
+            _::-webkit-full-page-media,
+            _:future,
+            :root & {
+                top: 13%;
+            }
+        }
+
+
+    }
+
+    &__maru_2 {
+        position: absolute;
+        top: 42%;
+        left: -9%;
+        width: 5rem;
+
+        @include mix.mq(sp) {
+            top: 39%;
+            left: -17%;
+            width: 5rem;
+        }
+    }
+}
+
+svg {
+    max-width: 800px;
+    /*SVGタグの横幅*/
+    width: 100%;
+    /* レスポンシブ対応にするため100%を指定*/
+    height: auto;
+}
+
+/*========= 手書き風にするためのCSS ===============*/
+
+/* マスクをするパスの設定*/
+#mask .st0 {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-width: 90;
+    /*線の太さを指定する*/
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+    stroke-dasharray: 1500;
+    /* 線の間隔を指定する */
+    stroke-dashoffset: 1500;
+    /*線の位置を指定する*/
+}
+
+_:lang(x)+_:-webkit-full-screen-document,
+.top__box {
+    width: 96px;
+}
+
+/* じわっと画像が表示される ---------　一度追加していたら不要*/
+@keyframes fadeIn {
+
+    /*上のbody内で呼び出しているアニメーションと名前をそろえる*/
+    0% {
+        opacity: 0
+    }
+
+    /* 始め */
+    100% {
+        opacity: 1
+    }
+
+    /* 終わり */
+}
+
+
+.scrolldown {
+    /*描画位置※位置は適宜調整してください*/
+    position: absolute;
+    top: 94%;
+    right: 8%;
+
+    @include mix.mq(sp) {
+        right: 4%;
+    }
+
+    & span {
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+        color: #342e2b;
+        font-size: 0.7rem;
+        letter-spacing: 0.05em;
+        writing-mode: vertical-rl;
+    }
+
+    &::before {
+        content: "";
+        /*描画位置*/
+        position: absolute;
+        bottom: 0;
+        left: -4px;
+        /*丸の形状*/
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #342e2b;
+        /*丸の動き1.6秒かけて透過し、永遠にループ*/
+        animation:
+            circlemove 1.6s ease-in-out infinite,
+            cirlemovehide 1.6s ease-out infinite;
+    }
+
+    &::after {
+        content: "";
+        /*描画位置*/
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        /*線の形状*/
+        width: 1px;
+        height: 50px;
+        background: #342e2b;
+    }
+}
+
+@keyframes circlemove {
+    0% {
+        bottom: 45px;
+    }
+
+    100% {
+        bottom: -5px;
+    }
+}
+
+/*上から下にかけて丸が透過→不透明→透過する*/
+@keyframes cirlemovehide {
+    0% {
+        opacity: 0
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    80% {
+        opacity: 0.9;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+/* intro */
+.intro {
+    margin: 32% 0;
+    padding: 40px;
+
+    @include mix.mq(sp) {
+        padding: 0;
+    }
+
+
+    &__inner {
+        max-width: 1920px;
+        width: 100%;
+        position: relative;
+    }
+
+    &__sub-img {
+        width: 10%;
+        position: absolute;
+        top: -3vw;
+        left: 17vw;
+
+        @include mix.mq(min) {
+            left: 19vw;
+        }
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 5%;
+                height: auto;
+                position: absolute;
+                top: -3vw;
+                left: 27vw;
+
+                @include mix.mq(se) {
+                    left: 30vw;
+                }
+
+                @include mix.mq(tab) {
+                    left: 31vw;
+                }
+
+                @include mix.mq(sen) {
+
+                    left: 34vw;
+                }
+
+                @include mix.mq(pc) {
+                    width: 3%;
+                    left: 38vw;
+                }
+            }
+        }
+    }
+
+    &__title {
+        font-size: 3.6vw;
+        text-align: center;
+
+        @include mix.mq(sp) {
+            font-size: 26px;
+        }
+    }
+
+    & span {
+        font-size: 6vw;
+        background: linear-gradient(transparent 60%, #dbd499 60%);
+
+        @include mix.mq(sp) {
+            font-size: 36px;
+        }
+    }
+
+    &__img {
+        margin-right: calc(50% - 50vw);
+        margin-left: calc(50% - 50vw);
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 100%;
+
+                & img {
+                    width: 100vw;
+                }
+            }
+        }
+
+        &-first {
+            margin-top: 24%;
+        }
+
+        & img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
+.fadeIn {
+    animation-name: fadeInAnime;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes fadeInAnime {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* jQueryによって追加されるコード */
+.animate__zoomIn {
+    visibility: visible;
+    opacity: 1;
+}
+
+@keyframes hurueru {
+    0% {
+        transform: translate(0px, 0px) rotateZ(0deg)
+    }
+
+    25% {
+        transform: translate(2px, 2px) rotateZ(1deg)
+    }
+
+    50% {
+        transform: translate(0px, 2px) rotateZ(0deg)
+    }
+
+    75% {
+        transform: translate(2px, 0px) rotateZ(-1deg)
+    }
+
+    100% {
+        transform: translate(0px, 0px) rotateZ(0deg)
+    }
+}
+
+
+/* ----------
+main
+---------- */
+.main {
+    &__text1 {
+        width: 100vw;
+        color: #fff;
+        background-color: #352e2b;
+        height: 8rem;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        line-height: 2.2rem;
+    }
+
+    &__text2 {
+        line-height: 2;
+    }
+
+    &__text3 {
+        line-height: 2;
+        margin-top: 8rem;
+    }
+
+    &__img {
+        width: 12rem;
+        height: auto;
+    }
+
+    &__img1 {
+        @include mix.mq(sp) {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    }
+
+    &__img2 {
+        width: 12rem;
+        height: auto;
+
+        &-pc {
+            width: 220px;
+            padding-top: 7%;
+        }
+    }
+
+    &__bg {
+        @include mix.mq(sp) {
+            background-image: url(../img/sen@2x.png);
+            background-size: 20% 95%;
+            background-position: bottom;
+            background-repeat: no-repeat;
+            margin: 50px auto;
+        }
+    }
+
+    &__img3 {
+        width: 8rem;
+        height: auto;
+
+        &-pc {
+            width: 180px;
+        }
+    }
+
+    &__img4 {
+        width: 6rem;
+        height: auto;
+        margin-left: 3rem;
+
+        &-pc {
+            width: 130px;
+        }
+    }
+
+    &__flex {
+        display: flex;
+        margin: 1rem 0 5rem 0;
+        justify-content: space-around;
+
+        & span {
+            display: block;
+            background-color: $bc-color;
+            margin-bottom: 10px;
+            line-height: 1.3;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.dot-text span {
+    position: relative;
+
+    /* 基準値とする */
+    &::before {
+        content: "・";
+        /* 文字の上に置くものを指定 */
+        position: absolute;
+        /* 相対位置とする */
+        top: -1.4em;
+        /* 縦方向の表示位置を調整（-1emくらいがちょうどいいかんじ） */
+        left: 0;
+        /* 横方向の表示位置を調整 */
+    }
+}
+
+/* ----------
+会社の魅力
+---------- */
+
+#about {
+    text-align: center;
+    width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+
+.about {
+    &__call {
+        text-align: center;
+        padding-bottom: 15%;
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 80%;
+                max-width: 500px;
+                text-align: center;
+                margin: 0 auto;
+                padding-bottom: 15%;
+
+
+                @include mix.mq(pc) {
+                    text-align: center;
+                    padding-bottom: 15%;
+                }
+            }
+        }
+
+        &-img1 {
+            width: 55%;
+        }
+    }
+
+    &__img-sec {
+        display: inline-block;
+        animation: hurueru .20s infinite;
+        width: 10%;
+        position: absolute;
+        top: 13%;
+        left: 46%;
+
+        _::-webkit-full-page-media,
+        _:future,
+        :root & {
+            top: 15%;
+        }
+
+        @include mix.mq(pc) {
+            width: 5%;
+            left: 47%;
+        }
+    }
+
+    &__title {
+        margin: 0 auto;
+        width: 78vw;
+        margin-top: 15%;
+
+        @include mix.mq(pc) {
+            margin: 7% auto 0;
+        }
+    }
+
+    &__text {
+        @include mix.mq(pc) {
+            padding-bottom: 1.5rem;
+        }
+    }
+
+    &__text1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 21px;
+        text-align: center;
+
+        @include mix.mq(pc) {
+            letter-spacing: 0.1rem;
+            font-size: 1.8rem;
+        }
+
+        &::before {
+            margin-right: 30px;
+            transform: rotate(-25deg);
+
+            @include mix.mq(pc) {
+                margin-right: 90px;
+            }
+        }
+
+        &::after {
+            margin-left: 30px;
+            transform: rotate(25deg);
+
+            @include mix.mq(pc) {
+                margin-left: 90px;
+            }
+        }
+
+        &::before,
+        &::after {
+            content: '';
+            width: 2px;
+            height: 40px;
+            background-color: #000;
+        }
+    }
+
+    &__img1 {
+        width: 60%;
+        margin: 5rem auto;
+
+        &-pc {
+            @include mix.mq(sp) {
+                margin: 50px auto 80px;
+                width: 55%;
+                max-width: 500px;
+            }
+        }
+
+    }
+
+    &__flex {
+        height: 3rem;
+        display: flex;
+        justify-content: center;
+
+        @include mix.mq(sp) {
+            margin-bottom: 10px;
+        }
+
+        & h4 {
+            line-height: 3;
+
+            @include mix.mq(sp) {
+                font-size: 1.2rem;
+            }
+        }
+
+        & img {
+            padding-bottom: 25px;
+            margin-right: -10px;
+
+            @include mix.mq(pc) {
+                padding-bottom: 23px;
+            }
+        }
+
+        & p {
+            @include mix.mq(pc) {
+                font-size: 1.3rem;
+            }
+        }
+    }
+
+    &__img2 {
+        width: 1.5rem;
+        height: auto;
+
+        &-pc {
+            @include mix.mq(sp) {
+                width: 1.5rem;
+                height: auto;
+            }
+        }
+    }
+
+    &__img3 {
+        & img {
+            width: 55%;
+            display: block;
+            margin: 15px auto;
+        }
+
+        &-pc {
+            @include mix.mq(sp) {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                margin: 0 auto;
+                width: 60vw;
+                max-width: 600px;
+
+                & img {
+                    width: 90%;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+}
+
+.fadeUp {
+    animation-name: fadeUpAnime;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes fadeUpAnime {
+    from {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* スクロールをしたら出現する要素にはじめに透過0を指定　*/
+
+.fadeUpTrigger {
+    opacity: 0;
+}
+
+.blinking {
+    animation: blink 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* ----------
+代表の言葉
+---------- */
+.president {
+    &__title {
+        width: 15rem;
+        height: 3rem;
+        text-align: center;
+        background-image: url(../img/about6@2x.png);
+        background-size: contain;
+        margin-top: 35%;
+
+        @include mix.mq(sp) {
+            margin-top: 10%;
+            background-image: url(../img/about6@2x-p.png);
+            height: 2.1rem;
+        }
+    }
+
+    &__text {
+        max-width: 75vw;
+        margin: 0 auto;
+        padding-top: 5rem;
+        line-height: 3;
+
+        @include mix.mq(sp) {
+            width: 42%;
+            margin-left: 18%;
+            line-height: 1.8;
+            padding-top: 0;
+            padding-bottom: 20px;
+        }
+
+        @include mix.mq(pc) {
+            padding-bottom: 40px;
+            ;
+        }
+    }
+
+    &__img {
+        text-align: center;
+        margin: 0 auto;
+
+        & img {
+            width: 100%;
+            height: auto;
+        }
+
+        &-pc img {
+            @include mix.mq(sp) {
+                position: absolute;
+                bottom: -33px;
+            }
+        }
+    }
+
+    &__position {
+        @include mix.mq(sp) {
+            position: relative;
+        }
+    }
+
+
+    &__line {
+        background-color: $bc-color;
+        display: inline-block;
+    }
+}
+
+// テキストタイピング
+.TextTyping span {
+    display: none;
+}
+
+
+.TextTyping::after {
+    content: "|";
+    animation: typinganime .8s ease infinite;
+}
+
+@keyframes typinganime {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+/*----------
+Creative Callの魅力
+----------*/
+
+.attractive {
+    background-color: $bc-color;
+    padding: 1px 0 20px 0;
+
+    @include mix.mq(sp) {
+        width: 80vw;
+        max-width: 800px;
+        margin: 5rem auto;
+    }
+
+    @include mix.mq(pc) {
+        margin: 7rem auto;
+    }
+
+    &__title {
+        width: 16rem;
+        height: 2rem;
+        text-align: center;
+        margin: 8% auto;
+        background-image: url(../img/about8@2x.png);
+        background-size: contain;
+
+        @include mix.mq(sp) {
+            margin: 4% auto;
+            background-image: url(../img/about8@2x-p.png);
+        }
+    }
+
+    &__list {
+        & ul {
+            width: 60%;
+            max-width: 300px;
+            margin: 0 auto;
+        }
+
+        & li {
+            padding-bottom: 1rem;
+            list-style-type: none;
+        }
+    }
+}
+
+
+/* ----------
+仕事内容
+---------- */
+.work {
+    &__title {
+        width: 8.5rem;
+        height: 3rem;
+        text-align: center;
+        margin-top: 35%;
+        background-image: url(../img/work1@2x.png);
+        background-size: contain;
+
+        @include mix.mq(sp) {
+            margin-top: 10%;
+            background-image: url(../img/work1@2x-p.png);
+            width: 9rem;
+            height: 2.3rem;
+        }
+
+        @include mix.mq(pc) {
+            margin-top: 7%;
+        }
+    }
+
+    &__text {
+        width: 80vw;
+        margin: 2rem auto 0;
+
+        @include mix.mq(sp) {
+            text-align: initial;
+            font-size: 14px;
+        }
+
+        @include mix.mq(tab) {
+            font-size: 16px;
+        }
+
+
+    }
+
+    &__img1 img {
+        width: 90vw;
+        display: block;
+        margin: 0 auto;
+    }
+
+    &__img2 img {
+        width: 100%;
+    }
+
+    &__img1-pc {
+        @include mix.mq(sp) {
+            margin: 0 auto;
+            width: 80vw;
+            max-width: 800px;
+        }
+    }
+}
+
+.img-wrap {
+    position: relative;
+    overflow: hidden;
+
+    &::before {
+        animation: img-wrap 2s cubic-bezier(.4, 0, .2, 1) forwards;
+        background: #fff;
+        bottom: 0;
+        content: '';
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+@keyframes img-wrap {
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.img-animation {
+    animation: img-opacity 4s cubic-bezier(.2, 0, .2, 1);
+    overflow: hidden;
+    position: relative;
+}
+
+.img-animation:before {
+    animation: img-animation 4s cubic-bezier(.2, 0, .2, 1) forwards;
+    background: #fff;
+    bottom: 0;
+    content: '';
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+@keyframes img-opacity {
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes img-wrap {
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes img-animation {
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+.img-animation1 {
+    animation: img-opacity 2s cubic-bezier(.4, 0, .2, 1);
+    overflow: hidden;
+    position: relative;
+}
+
+.img-animation1:before {
+    animation: img-animation1 2s cubic-bezier(.4, 0, .2, 1) forwards;
+    /* background: #fff; */
+    background: #fff;
+    bottom: 0;
+    content: '';
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+@keyframes img-opacity {
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes img-animation1 {
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.img-animation2 {
+    animation: img-opacity 2s cubic-bezier(.4, 0, .2, 1);
+    overflow: hidden;
+    position: relative;
+}
+
+.img-animation2:before {
+    animation: img-animation2 2s cubic-bezier(.4, 0, .2, 1) forwards;
+    background: #e3e6e1;
+    bottom: 0;
+    content: '';
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+@keyframes img-opacity {
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes img-animation2 {
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* ----------
+1日のタイムスケジュール
+---------- */
+.workflow {
+    &__title {
+        width: 18rem;
+        height: 3rem;
+        text-align: center;
+        margin: 3rem auto;
+        background-image: url(../img/work4@2x.png);
+        background-size: contain;
+
+        @include mix.mq(sp) {
+            background-image: url(../img/work4@2x-p.png);
+            height: 2.3rem;
+        }
+    }
+
+
+    &__img img {
+        width: 90vw;
+        display: block;
+        margin: 3rem auto;
+    }
+
+    &__img-pc {
+        @include mix.mq(sp) {
+            width: 80vw;
+            margin: 0 auto;
+            max-width: 800px;
+        }
+    }
+
+    &__text {
+        width: 90vw;
+        margin: 0 auto;
+        text-align: center;
+
+        @include mix.mq(sp) {
+            padding-top: 1rem;
+        }
+    }
+}
+
+/* ----------
+募集要項
+---------- */
+.description {
+    &__title {
+        width: 18rem;
+        height: 2rem;
+        text-align: center;
+        margin-top: 35%;
+        background-image: url(../img/infomation1@2x.png);
+        background-size: contain;
+
+        @include mix.mq(sp) {
+            margin-top: 13%;
+            background-image: url(../img/infomation1@2x-p.png);
+            height: 2.1rem;
+        }
+
+        @include mix.mq(pc) {
+            margin-top: 7%;
+        }
+    }
+
+    &__position {
+        @include mix.mq(sp) {
+            position: relative;
+            width: 40%;
+        }
+    }
+
+    &__img1-pc {
+        @include mix.mq(sp) {
+            width: 70%;
+            position: absolute;
+            bottom: 7%;
+            z-index: 1;
+        }
+
+        @include mix.mq(pc) {
+            width: 80%;
+            right: 108%;
+        }
+
+    }
+
+    &__img2-pc {
+        @include mix.mq(sp) {
+            width: 30%;
+            position: absolute;
+            top: 12%;
+            right: 2%;
+        }
+
+        @include mix.mq(pc) {
+            width: 25%;
+            top: 6%;
+        }
+    }
+
+    &__content {
+        width: 90vw;
+        margin: 0 auto;
+        padding-top: 30px;
+
+        @include mix.mq(sp) {
+            width: 50%;
+            margin: 0 20px 0 80px;
+            padding-bottom: 5%;
+        }
+
+        @include mix.mq(pc) {
+            margin: 0 20% 0 10%;
+            width: 100vw;
+        }
+    }
+
+    &__bg {
+        background-color: $bc-color;
+        height: 98;
+
+        @include mix.mq(sp) {
+            display: flex;
+            position: relative;
+        }
+    }
+
+    &__container {
+        display: flex;
+        border-bottom: solid 1px #000;
+
+        & p {
+            padding: 1rem 0;
+
+            @include mix.mq(sp) {
+                padding: 10px 0;
+                font-size: 0.8rem;
+            }
+        }
+    }
+
+    &__item1 {
+        font-weight: bold;
+        flex-basis: 20%;
+    }
+
+    &__item2 {
+        flex-basis: 80%;
+    }
+
+    &__img1 img {
+        width: 70vw;
+        display: block;
+        margin: 4rem auto;
+    }
+
+    &__img2 img {
+        width: 100%;
+        display: block;
+        margin: 0;
+    }
+
+    &__btn {
+        margin-top: 9rem;
+
+        & img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        &-img img {
+            width: 5rem;
+            height: auto;
+            margin-top: 3rem;
+        }
+
+        &-pc img {
+            @include mix.mq(sp) {
+                display: block;
+                width: 35%;
+                max-width: 250px;
+                margin: 20% auto 0;
+            }
+
+            @include mix.mq(pc) {
+                margin: 7% auto 0;
+            }
+        }
+
+        &-img {
+            @include mix.mq(sp) {
+                width: 33%;
+                max-width: 300px;
+                margin: 0 auto;
+            }
+
+            @include mix.mq(pc) {
+                margin: 4% auto 0;
+            }
+        }
+
+    }
+
+    &__img {
+        width: 55%;
+    }
+
+    &__text {
+        margin: 15rem 0;
+        text-align: center;
+        line-height: 3;
+
+        @include mix.mq(pc) {
+            margin: 14% auto;
+        }
+    }
+
+    &__flex {
+        @include mix.mq(sp) {
+            display: flex;
+        }
+    }
+
+}
+
+/* ----------
+選考フロー
+---------- */
+
+
+.area {
+    background-color: #f5f4ec;
+    height: 730px;
+
+    @include mix.mq(sp) {
+        height: 700px;
+    }
+
+    &__title {
+        background-image: url(../img/flow1@2x.png);
+        width: 8rem;
+        height: 2rem;
+        text-align: center;
+        background-size: contain;
+
+
+        @include mix.mq(sp) {
+            height: 2.2rem;
+        }
+    }
+
+    &__1 {
+        padding: 45px 0;
+        background-color: #dbd499;
+    }
+
+    &__2 {
+        background-color: #e8e6d1;
+        height: 150px;
+        padding: 30px 0;
+    }
+
+    &__3 {
+        padding-top: 2rem;
+    }
+
+    &__item {
+        max-width: 700px;
+        margin: 0 auto;
+        width: 80%;
+
+        @include mix.mq(sp) {
+            width: 40%;
+        }
+    }
+
+    & h3 {
+        margin-bottom: 15px;
+        font-size: large;
+    }
+
+    & span {
+        font-weight: 100;
+        padding-left: 5px;
+    }
+}
+
+.triangle {
+    padding-top: 4.35%;
+    width: 100%;
+    box-sizing: border-box;
+    background-position: center top;
+    background-size: contain;
+    background-color: #e8e6d1;
+}
+
+.triangle1 {
+    background-image: url(../img/sankaku2@2x.png);
+}
+
+.triangle2 {
+    background-image: url(../img/sankaku2@2x.png);
+}
+
+/* ----------
+お問い合わせ
+---------- */
+
+#formWrap {
+    position: relative;
+    margin: -40px auto;
+    color: #555;
+    line-height: 120%;
+    font-size: 90%;
+    background-color: #f5f4ec;
+}
+
+.formWrap {
+    &__inner {
+        background-image: url(../img/contact2@2x.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center top;
+        padding-bottom: 42px;
+        margin-top: -150px;
+
+        @include mix.mq(sp) {
+            background-image: url(../img/contact2@2x.png);
+            background-size: cover;
+        }
+    }
+
+    &__title {
+        background-image: url(../img/contact1@2x.png);
+        width: 11rem;
+        height: 2rem;
+        text-align: center;
+        margin: 2rem auto;
+        background-size: contain;
+        line-height: 2rem;
+    }
+
+    &__img {
+        padding-left: 40%;
+        width: 100%;
+        margin-top: 30px;
+
+        @include mix.mq(sp) {
+            padding-left: 46%;
+            padding-top: 40px;
+        }
+    }
+}
+
+
+table.formTable {
+    margin: 0 auto;
+    width: 80%;
+
+    @include mix.mq(sp) {
+        width: 40%;
+    }
+
+    & th,
+    & td {
+        width: auto;
+        display: block;
+    }
+
+    & th {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border-bottom: 0;
+        text-align: left;
+    }
+}
+
+form input[type="text"],
+form textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 110%;
+    display: block;
+    background-color: #fff;
+}
+
+form input[type="submit"],
+form input[type="reset"],
+form input[type="button"] {
+    display: block;
+    width: 30%;
+    height: 40px;
+}
+
+form input[type="submit"] {
+    margin-top: 5%;
+}
+
+.button_solid004 input {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 120px;
+    padding: 10px 25px;
+    color: #352e2b;
+    font-size: 18px;
+    /*font-weight*/
+    letter-spacing: 0.1em;
+    transition: 0.3s ease-in-out;
+    font-weight: 600;
+    /*border: 0.1rem solid #352e2b;*/
+    background: #fff;
+    text-decoration-line: none;
+    border-radius: 3px;
+    border-radius: 50px;
+    border-bottom: solid 5px #c4c6c2;
+}
+
+.button_solid004 input:hover {
+    border-bottom: solid 2px #c4c6c2;
+    transform: translateY(3px);
+}
+
+
+/* ----------
+Q&A
+---------- */
+.qa {
+    &__inner {
+        margin-top: 100px;
+    }
+
+    &__title {
+        background-image: url(../img/Q_A@2x.png);
+        width: 5rem;
+        height: 2rem;
+        text-align: center;
+        margin: 0 auto;
+        background-size: cover;
+    }
+
+    &__text {
+        color: #d5afaf;
+        font-size: 18px;
+    }
+
+    &__container {
+        margin: 50px auto 0;
+        max-width: 99%;
+        width: 100%;
+
+        @include mix.mq(sp) {
+            max-width: 80%;
+        }
+    }
+
+    &__list:not(:first-child) {
+        margin-top: 15px;
+    }
+}
+
+
+.question__title {
+    background: $bc-color;
+    cursor: pointer;
+    padding: 20px 40px;
+    position: relative;
+
+    &::before {
+        position: absolute;
+        display: block;
+        content: 'Q';
+        top: 18px;
+        left: 12px;
+        color: #d5afaf;
+        font-size: 18px;
+    }
+
+    &::after {
+        position: absolute;
+        display: block;
+        content: '';
+        top: 35%;
+        right: 22px;
+        width: 8px;
+        height: 8px;
+        border-top: 2px solid #666;
+        border-right: 2px solid #666;
+        transform: rotate(135deg);
+        transition: all .3s ease-in-out;
+    }
+}
+
+.question__title.open:after {
+    transform: rotate(-45deg);
+    top: 45%;
+}
+
+.answer__text {
+    border-left: 1px solid #e3e6e1;
+    border-right: 1px solid #e3e6e1;
+    border-bottom: 1px solid #e3e6e1;
+    display: none;
+    padding: 20px 40px;
+    position: relative;
+
+    &::before {
+        position: absolute;
+        display: block;
+        content: 'A';
+        top: 18px;
+        left: 12px;
+        color: #d5afaf;
+        font-size: 18px;
+    }
+}
+
+/* ----------
+フッター
+---------- */
+.footer {
+    margin: 100px 0 61px 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #352e2b;
+
+    @include mix.mq(sp) {
+        position: relative;
+        height: 180px;
+        margin: 100px 0 0;
+    }
+
+    & p {
+        text-align: center;
+        color: white;
+        font-size: 1.2rem;
+
+        @include mix.mq(sp) {
+            padding-bottom: 1%;
+        }
+
+        @include mix.mq(pc) {
+            font-size: 1rem;
+        }
+    }
+
+    &__logo {
+        margin-left: 10px;
+        width: 13vw;
+        padding-top: 2%;
+
+        @include mix.mq(sp) {
+            display: none;
+        }
+
+        &-pc {
+            display: none;
+
+            @include mix.mq(sp) {
+                display: block;
+                margin-left: 40px;
+                width: 4rem;
+            }
+        }
+    }
+
+    & a {
+        color: white;
+    }
+}
+
+.copyright {
+    margin: 0 auto;
+
+    @include mix.mq(sp) {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+}
+
+/*リンクを右下に固定*/
+#page-top {
+    position: fixed;
+    background-image: url("../img/button@2x-p.png");
+    bottom: 65px;
+    right: 15px;
+    width: 40px;
+    /* Width of image */
+    height: 55px;
+    /* Height of image */
+    z-index: 1;
+    background-size: contain;
+    /*はじめは非表示*/
+    opacity: 0;
+    transform: translateY(100px);
+
+    & a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        width: 60px;
+        height: 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 0.6rem;
+        transition: all 0.3s;
+    }
+
+    &.UpMove {
+        animation: UpAnime 0.5s forwards;
+    }
+
+    &.DownMove {
+        animation: DownAnime 0.5s forwards;
+    }
+}
+
+/*　上に上がる動き　*/
+
+@keyframes UpAnime {
+    from {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/*　下に下がる動き　*/
+
+@keyframes DownAnime {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(100px);
+    }
+}

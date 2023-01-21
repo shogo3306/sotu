@@ -1,0 +1,954 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 2040 2040 
+%%LanguageLevel: 3
+%%Creator: CorelDRAW
+%%Title: (One line drawing of isolated vector object phone receiver. Telephone icon on white background. Illustration for banner, web, design element, template, postcard.)
+%%CreationDate: Mon May  4 02:42:46 2020
+%%DocumentProcessColors: Cyan Magenta Yellow Black 
+%%DocumentSuppliedResources: (atend)
+%%Keywords: (phone, line, vector, call, sketch, illustration, outline, graphic, answer, icon, conceptual, talk, creative, abstract, art, background, black, business, concept, connection, contacts, continuity, conversations, curve, design, dial, doodle, d
+%%+rawing, elements, grunge, idea, isolated, item, linear, metaphor, minimalistic, number, sign, silhouette, simplicity, space, straight, stylized, symbol, telephone, trendy, wave)
+%ADO_ContainsXMP: MainFirst
+%%EndComments
+%%BeginProlog
+/AutoFlatness false def
+/AutoSteps 0 def
+/CMYKMarks true def
+/DocPsLevel 3 def
+%Build: CorelDRAW Version 22.0.0.412
+/EpsFile true def
+%%BeginResource: procset wCorel22Dict 22.0 0
+/wCorel22Dict 300 dict def wCorel22Dict begin
+%----------------------------------------------------------------------------
+% Core Corel PostScript prolog functions
+/bd{bind def}bind def/ld{load def}bd/xd{exch def}bd/rp{{pop}repeat}bd/dexec{
+exch begin cvx exec end}bd/@cp/closepath ld/@gs/gsave ld/@gr/grestore ld/@np
+/newpath ld/Tl/translate ld/$sv 0 def/@sv{/$sv save def}bd/@rs{$sv restore}bd
+/spg/showpage ld/showpage{}bd currentscreen/@dsp xd/$dsp/@dsp def/$dsa xd/$dsf
+xd/$sdf false def/$SDF false def/$Scra 0 def/SetScr/setscreen ld/@ss{2 index 0
+eq{$dsf 3 1 roll 4 -1 roll pop}if exch $Scra add exch load SetScr}bd
+/SeparationMode where{pop}{/SeparationMode/Composite def}ifelse
+/SeparationPlateName where{pop}{/SeparationPlateName null def}ifelse
+/SeparateInColor where{pop}{/SeparateInColor false def}ifelse/EpsFile where
+{pop}{/EpsFile false def}ifelse/FillOverprint false def/$fil 0 def
+/OutlineOverprint 0 def/$PF false def/$bkg false def/CurrentOverprint false def
+matrix currentmatrix/$ctm xd/$ptm matrix def/$ttm matrix def/$stm matrix def
+/$ffpnt true def/CorelDrawReencodeVect[16#0/grave 16#5/breve 16#6/dotaccent
+16#8/ring 16#A/hungarumlaut 16#B/ogonek 16#C/caron 16#D/dotlessi
+16#27/quotesingle 16#60/grave 16#7C/bar 16#80/Euro
+16#82/quotesinglbase/florin/quotedblbase/ellipsis/dagger/daggerdbl
+16#88/circumflex/perthousand/Scaron/guilsinglleft/OE
+16#91/quoteleft/quoteright/quotedblleft/quotedblright/bullet/endash/emdash
+16#98/tilde/trademark/scaron/guilsinglright/oe 16#9F/Ydieresis
+16#A1/exclamdown/cent/sterling/currency/yen/brokenbar/section
+16#a8/dieresis/copyright/ordfeminine/guillemotleft/logicalnot/minus/registered/macron
+16#b0/degree/plusminus/twosuperior/threesuperior/acute/mu/paragraph/periodcentered
+16#b8/cedilla/onesuperior/ordmasculine/guillemotright/onequarter/onehalf/threequarters/questiondown
+16#c0/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+16#c8/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis
+16#d0/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply
+16#d8/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls
+16#e0/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla
+16#e8/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis
+16#f0/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide
+16#f8/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]def
+/get_ps_level/languagelevel where{pop systemdict/languagelevel get exec}{1}
+ifelse def/Level2 get_ps_level 2 ge def/Level3 get_ps_level 3 ge def
+/AdobeDistiller/product where{pop systemdict/setdistillerparams known product
+(Adobe PostScript Parser)ne and}{false}ifelse def/InRipSeparation
+AdobeDistiller{false}{Level2{currentpagedevice/Separations 2 copy known{get}{
+pop pop false}ifelse}{false}ifelse}ifelse def/ColorSeparationLevel1 1 0 0 0
+gsave setcmykcolor currentcmykcolor grestore add add add 0 ne 0 1 0 0 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne 0 0 1 0 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne 0 0 0 1 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne and and and not def
+/ColorSeparation/LumSepsDict where{pop false}{/AldusSepsDict where{pop false}{
+InRipSeparation{true}{ColorSeparationLevel1}ifelse}ifelse}ifelse def
+/IsColorDevice/deviceinfo where{pop deviceinfo/Colors known{deviceinfo/Colors
+get exec 1 gt}{false}ifelse}{/statusdict where{pop statusdict/processcolors
+known{statusdict/processcolors get exec 1 gt}{false}ifelse}{false}ifelse}
+ifelse def/get_simulate_devicen get_ps_level 2 eq{{SeparationMode/OnHost ne
+InRipSeparation AdobeDistiller or and}bind}{false}ifelse def/DocGrayScaleSpace
+[/DeviceGray]def/DocRgbSpace[/DeviceRGB]def/DocCmykSpace[/DeviceCMYK]def
+/DocLabSpace[/CIEBasedABC <</BlackPoint[0 0 0]/WhitePoint[0.9637 1.0000 0.8241
+]/RangeABC[0 100 -128 127 -128 127]/DecodeABC[{16 add 116 div}bind{500 div}
+bind{200 div}bind]/MatrixABC[1 1 1 1 0 0 0 0 -1]/DecodeLMN[{dup 0.206897 ge{dup
+dup mul mul}{0.137931 sub 0.128419 mul}ifelse 0.9637 mul}bind{dup 0.206897
+ge{dup dup mul mul}{0.137931 sub 0.128419 mul}ifelse 1.0000 mul}bind{dup
+0.206897 ge{dup dup mul mul}{0.137931 sub 0.128419 mul}ifelse 0.8241 mul}bind]
+>>]def/validate_cie_colorspace_whitepoint{load dup aload pop/WhitePoint get 1
+1.0 put pop}bd/set_cie_colorspaces{/DocGrayScaleSpaceCIE where{pop
+/DocGrayScaleSpaceCIE validate_cie_colorspace_whitepoint/DocGrayScaleSpace xd
+DocGrayScaleSpace aload pop begin pop/DecodeA where{pop DecodeA type/arraytype
+eq{DecodeA aload pop/DecodeA exch def}if}if end}if/DocRgbSpaceCIE where{pop
+/DocRgbSpaceCIE validate_cie_colorspace_whitepoint/DocRgbSpace xd}if
+/DocCmykSpaceCIE where{pop/DocCmykSpaceCIE validate_cie_colorspace_whitepoint
+/DocCmykSpace xd}if}bd/set_rendering_intent{Level3{findcolorrendering{
+/ColorRendering findresource setcolorrendering}{dup/DefaultColorRendering eq{
+pop}{/ColorRendering findresource setcolorrendering}}ifelse}{pop}ifelse}bd
+/findcmykcustomcolor where{pop}{/findcmykcustomcolor{5 array astore}def}ifelse
+/setcustomcolor where SeparationMode/OnHost ne and{pop}{/tint_cmyk_color{5 -1
+roll dup 1 ge{pop}{4{dup 6 -1 roll mul exch}repeat pop}ifelse}bd
+/setprocesscolor_5{SepMode_5 0 eq{SetCmyk_5}{SepsColor not{4 1 roll pop pop pop
+1 exch sub SetGry}{SetCmyk_5}ifelse}ifelse}bd/setcustomcolor{exch aload pop
+SepMode_5 0 eq{pop tint_cmyk_color setprocesscolor_5}{CurrentInkName_5 eq{4
+index}{0}ifelse 6 1 roll 5 rp 1 sub neg SetGry}ifelse}bd}ifelse
+/convert_rgb_to_cmyk{dup type/dicttype eq{}{3{1 exch sub 3 1 roll}repeat 3 copy
+min min 3{dup 5 -1 roll sub neg exch}repeat}ifelse}bd/safe_setcolorspace{dup
+currentcolorspace eq{pop}{setcolorspace}ifelse}bd/safe_setoverprint{dup type
+/booleantype eq{dup currentoverprint ne{setoverprint}{pop}ifelse}{1 eq
+setoverprint}ifelse}bd/is_cmyk_channel_name{/channel_name xd channel_name/Cyan
+eq channel_name/Magenta eq or channel_name/Yellow eq or channel_name/Black eq
+or{true}{false}ifelse}bd/is_rgb_channel_name{/channel_name xd channel_name/Red
+eq channel_name/Green eq or channel_name/Blue eq or{true}{false}ifelse}bd
+/is_spot_channel_name{/channel_name xd channel_name is_cmyk_channel_name
+channel_name is_rgb_channel_name or channel_name/Gray eq or{false}{true}ifelse
+}bd/spot_tint_transform_proc{/alternativeSpace xd/alternativeColors xd/tint xd
+alternativeSpace DocLabSpace eq{/mixMethod/Additive def/altSpaceNumChannels 3
+def}{alternativeSpace DocCmykSpace eq{/mixMethod/Subtractive def
+/altSpaceNumChannels 4 def}{alternativeSpace DocRgbSpace eq{/mixMethod
+/Additive def/altSpaceNumChannels 3 def}{alternativeSpace DocGrayScaleSpace eq
+{/mixMethod/Additive def/altSpaceNumChannels 1 def}if}ifelse}ifelse}ifelse
+alternativeSpace DocLabSpace eq{alternativeColors aload pop tint mul 3 1 roll
+tint mul 3 1 roll dup 100 exch sub 1 tint sub mul add 3 1 roll}{/tintedColor
+altSpaceNumChannels{0.0}repeat altSpaceNumChannels array astore def 0 1
+altSpaceNumChannels 1 sub{/altChannelIndex exch def alternativeColors
+altChannelIndex get mixMethod/Additive eq{1.0 exch sub tint mul 1.0 exch sub}{
+tint mul}ifelse tintedColor altChannelIndex 3 2 roll put}for tintedColor aload
+pop}ifelse}bd/devicen_colorant_mixer_proc{/numChannels xd/alternativeSpace xd
+/channelNames xd/alternativeColors xd numColorants array astore/colorants xd
+/is_spot_channel_name_loc{is_spot_channel_name}bind def alternativeSpace
+DocCmykSpace eq{/mixMethod/Subtractive def/altSpaceNumChannels 4 def
+/is_spot_channel_name_loc{is_cmyk_channel_name not}bind def}{alternativeSpace
+DocRgbSpace eq{/mixMethod/Additive def/altSpaceNumChannels 3 def
+/is_spot_channel_name_loc{is_rgb_channel_name not}bind def}{alternativeSpace
+DocGrayScaleSpace eq{/mixMethod/Additive def/altSpaceNumChannels 1 def
+/is_spot_channel_name_loc{/Gray ne}bind def}if}ifelse}ifelse mixMethod
+/Additive eq{/mixedColor altSpaceNumChannels{0.0}repeat altSpaceNumChannels
+array astore def/bProcessPlateTinted false def 0 1 numChannels 1 sub{
+/channelIndex exch def channelNames channelIndex get is_spot_channel_name_loc
+/bSpotChannel xd/sourceChannel colorants channelIndex get def/bWhiteBackground
+0 mixedColor{add}forall altSpaceNumChannels div 0.999 gt bProcessPlateTinted
+and def bSpotChannel bProcessPlateTinted not and{/bSpotChannel false def}if 0 1
+altSpaceNumChannels 1 sub{/altChannelIndex exch def/mixedChannel mixedColor
+altChannelIndex get def sourceChannel alternativeColors channelIndex get
+altChannelIndex get 1.0 exch sub mul 1.0 exch sub dup 1.0 gt{pop 1.0}if dup 0.0
+lt{pop 0.0}if bSpotChannel{sourceChannel 0.0 gt{mixedChannel mul}{pop
+mixedChannel}ifelse}{/bProcessPlateTinted true def globaldict begin
+/bSkipDeviceNImage where{pop false}{true}ifelse end DevicenImage and{pop
+sourceChannel alternativeColors channelIndex get altChannelIndex get mul
+mixedChannel add}{mixedChannel add}ifelse}ifelse dup 1.0 gt{pop 1.0}if dup 0.0
+lt{pop 0.0}if mixedColor altChannelIndex 3 2 roll put}for}for}{/mixedColor
+altSpaceNumChannels{1}repeat altSpaceNumChannels array astore def 0 1
+altSpaceNumChannels 1 sub{/targetIndex exch def 0 1 numColorants 1 sub{
+/sourceIndex exch def colorants sourceIndex get alternativeColors sourceIndex
+get targetIndex get mul 1 exch sub mixedColor targetIndex get mul mixedColor
+targetIndex 3 2 roll put}for mixedColor targetIndex 1 mixedColor targetIndex
+get sub put}for}ifelse mixedColor aload pop}bd/ColorSpec 9 dict begin/color[]
+def/names[]def/num 0 def/ColorModel null def/ColorSpace[]def/set_color{
+ColorSeparationLevel1{convert_to_cmyk/color get aload pop setcmykcolor}{
+ColorSpace safe_setcolorspace color aload pop setcolor}ifelse}bd
+/separate_set_color{SeparationMode/OnHost eq{separate_color{/set_color dexec
+true}{pop currentoverprint{false}{SeparateInColor{0 0 0 0 SetCmyk_5 true}{1
+SetGry true}ifelse}ifelse}ifelse}{set_color true}ifelse}bd/separate_color{
+currentdict false}bd/convert_to_cmyk{currentdict}bd currentdict end def
+/GrayscaleColorSpec ColorSpec 9 dict copy begin/names{/Black}def/num 1 def
+/ColorModel/Grayscale def/ColorSpace DocGrayScaleSpace def/separate_color{
+currentdict false SeparationMode/OnHost eq{SeparationPlateName/Black eq{
+SeparateInColor{pop convert_to_cmyk true}{pop true}ifelse}if}if}bd
+/convert_to_cmyk{0 0 0 color aload pop 1 exch sub create_cmyk_color}bd
+currentdict end def/create_grayscale_color{GrayscaleColorSpec 9 dict copy begin
+/color exch 1 array astore def/ColorSpace DocGrayScaleSpace def currentdict end
+}bd/RgbColorSpec ColorSpec 9 dict copy begin/names{/Red/Green/Blue}def/num 3
+def/ColorModel/Rgb def/ColorSpace DocRgbSpace def/separate_color{
+convert_to_cmyk/separate_color dexec}bd/convert_to_cmyk{color aload pop
+convert_rgb_to_cmyk create_cmyk_color}bd currentdict end def/create_rgb_color{
+RgbColorSpec 9 dict copy begin 3 array astore/color exch def/ColorSpace
+DocRgbSpace def currentdict end}bd/HsbColorSpec ColorSpec 9 dict copy begin
+/names{/Hue/Saturation/Brightness}def/num 3 def/ColorModel/Hsb def/ColorSpace
+DocRgbSpace def/separate_color{convert_to_cmyk/separate_color dexec}bd
+/convert_to_cmyk{color aload pop hsb2rgb convert_rgb_to_cmyk create_cmyk_color
+}bd/convert_to_rgb{color aload pop hsb2rgb create_rgb_color}bd currentdict end
+def/create_hsb_color{HsbColorSpec 9 dict copy begin 3 array astore/color exch
+def/ColorSpace DocRgbSpace def currentdict end}bd/CmykColorSpec ColorSpec 9
+dict copy begin/names{/Cyan/Magenta/Yellow/Black}def/num 4 def/ColorModel/Cmyk
+def/ColorSpace DocCmykSpace def/separate_color{currentdict false
+SeparationPlateIndex 0 ge SeparationPlateIndex 3 le and{color
+SeparationPlateIndex get dup 0 gt{3 1 roll pop pop SeparateInColor{0 0 0 4
+SeparationPlateIndex roll create_cmyk_color true}{1 exch sub
+create_grayscale_color true}ifelse}{pop}ifelse}if}bd/convert_to_cmyk{
+currentdict}bd currentdict end def/create_cmyk_color{CmykColorSpec 9 dict copy
+begin 4 array astore/color exch def/ColorSpace DocCmykSpace def currentdict end
+}bd/SpotColorSpec ColorSpec 9 dict copy begin/num 1 def/ColorModel/Spot def
+/set_color{ColorSeparationLevel1{color aload pop get_cmyk_alternative_color
+/color get aload pop names aload pop findcmykcustomcolor exch setcustomcolor}{
+ColorSpace safe_setcolorspace color aload pop setcolor}ifelse}bd
+/separate_color{currentdict false SeparationPlateIndex 4 eq{names aload pop
+SeparationPlateName eq{color aload pop dup 0 gt{3 1 roll pop pop
+SeparateInColor{pop convert_to_cmyk true}{1 exch sub create_grayscale_color
+true}ifelse}{pop}ifelse}if}if}bd/convert_to_cmyk{/alternativeSpace ColorSpace 2
+get def/tintTransformProc ColorSpace 3 get def alternativeSpace DocCmykSpace eq
+{color aload pop tintTransformProc create_cmyk_color}{alternativeSpace
+DocRgbSpace eq{color aload pop tintTransformProc create_rgb_color
+/convert_to_cmyk dexec}{alternativeSpace DocGrayScaleSpace eq{0 0 0 color aload
+pop 1 sub create_cmyk_color}{0 0 0 1 create_cmyk_color}ifelse}ifelse}ifelse}bd
+/get_cmyk_alternative_color{/alternativeSpace ColorSpace 2 get def
+alternativeSpace DocCmykSpace eq{alternativeColor aload pop create_cmyk_color}
+{alternativeSpace DocRgbSpace eq{alternativeColor aload pop create_rgb_color
+/convert_to_cmyk dexec}{alternativeSpace DocGrayScaleSpace eq{alternativeColor
+aload pop create_grayscale_color/convert_to_cmyk dexec}{0 0 0 1
+create_cmyk_color}ifelse}ifelse}ifelse}bd currentdict end def
+/create_spot_colorspace{load/alternativeSpace xd/alternativeColor xd/name xd[
+/Separation name alternativeSpace[alternativeColor alternativeSpace
+/spot_tint_transform_proc cvx]cvx]}bd/create_spot_color{SpotColorSpec 9 dict
+copy begin dup type/arraytype ne{create_spot_colorspace}if/ColorSpace xd/color
+exch 1 array astore def ColorSpace 1 get 1 array astore/names xd currentdict
+end}bd/DevicenColorSpec SpotColorSpec 9 dict copy begin/ColorModel/DeviceN def
+/set_color{Level3{ColorSpace safe_setcolorspace color aload pop setcolor}{
+ColorSpace 2 get setcolorspace color aload pop ColorSpace 3 get exec setcolor}
+ifelse}bd/separate_color{currentdict false/PlateIndex -1 def 0 1 num 1 sub{dup
+names exch get SeparationPlateName eq{/PlateIndex xd exit}if pop}for PlateIndex
+0 ge{color PlateIndex get dup 0 gt{SeparateInColor{num 1 sub{0}repeat num
+PlateIndex roll ColorSpace create_devicen_color/convert_to_cmyk dexec true}{1
+exch sub create_grayscale_color true}ifelse 4 2 roll pop pop}{pop}ifelse}if}bd
+/get_ink_as_spot{dup/indexInk xd dup color exch get exch names exch get[1.0 num
+1 sub{0}repeat num indexInk roll ColorSpace 3 get exec]ColorSpace 2 get
+create_spot_color}bd currentdict end def/create_devicen_colorspace{
+/numColorants xd load/alternativeSpace xd bind/tintTransform exch def/names xd
+[/DeviceN names alternativeSpace/tintTransform load]}bd/create_devicen_color{
+DevicenColorSpec 9 dict copy begin dup type/arraytype ne{
+create_devicen_colorspace}if/ColorSpace xd/num ColorSpace 1 get length def
+/names ColorSpace 1 get def num array astore/color xd currentdict end}bd
+/RegistrationColorSpec ColorSpec 9 dict copy begin/num 1 def/ColorModel
+/Registration def/ColorSpace{[/Separation/All DocCmykSpace{dup dup dup}]}def
+/names[/All]def/set_color{ColorSeparationLevel1{DocGrayScaleSpace
+safe_setcolorspace color aload pop 1 exch sub setcolor}{ColorSpace
+safe_setcolorspace color aload pop setcolor}ifelse}bd/separate_color{
+SeparateInColor{convert_to_cmyk true}{color aload pop 1 exch sub
+create_grayscale_color true}ifelse}bd/convert_to_cmyk{color aload pop dup dup
+dup create_cmyk_color}bd currentdict end def/create_registration_color{
+RegistrationColorSpec 9 dict copy begin 1 array astore/color xd currentdict end
+}bd/LabColorSpec ColorSpec 9 dict copy begin/names{/L/a/b}def/num 3 def
+/ColorModel/Lab def/ColorSpace DocLabSpace def/separate_color{convert_to_cmyk
+/separate_color dexec}bd/convert_to_cmyk{0 0 0 0 create_cmyk_color}bd
+currentdict end def/create_lab_color{LabColorSpec 9 dict copy begin 3 array
+astore/color exch def/ColorSpace DocLabSpace def currentdict end}bd
+/set_solid_fill{/FillColor xd/$fil 0 def}bd/set_outline{/OutlineColor xd}bd
+/CheckLevelCompatibility{/DocPsLevel where{pop DocPsLevel get_ps_level gt{@np
+/Courier findfont 12 scalefont setfont 72 144 m
+(The PostScript level of Corel document is higher than the PostScript)show 72
+132 m(level of this device. Change the PS Level in the Corel application)show
+72 120 m(by selecting the PostScript tab in the print dialog, and selecting)
+show 72 108 m(document level from the Compatibility drop down list.)show flush
+spg quit}if}if}bd/@BeginSysCorelDict{systemdict/Corel30Dict known{systemdict
+/Corel30Dict get exec}if systemdict/CorelLexDict known{1 systemdict
+/CorelLexDict get exec}if}bd/@EndSysCorelDict{systemdict/Corel30Dict known
+{end}if/EndCorelLexDict where{pop EndCorelLexDict}if}bd/AutoFlatness where{pop
+AutoFlatness{/@ifl{dup currentflat exch sub 10 gt{
+([Error: PathTooComplex; OffendingCommand: AnyPaintingOperator]\n)print flush
+@np exit}{currentflat 2 add setflat}ifelse}bd/@fill/fill ld/fill{currentflat{
+{@fill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@eofill/eofill ld/eofill
+{currentflat{{@eofill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@clip
+/clip ld/clip{currentflat{{@clip}stopped{@ifl}{exit}ifelse}bind loop setflat}
+bd/@eoclip/eoclip ld/eoclip{currentflat{{@eoclip}stopped{@ifl}{exit}ifelse}
+bind loop setflat}bd/@stroke/stroke ld/stroke{currentflat{{@stroke}stopped
+{@ifl}{exit}ifelse}bind loop setflat}bd}if}if/@ssa Level2{{true
+setstrokeadjust}}{{}}ifelse bd/d/setdash ld/j/setlinejoin ld/J/setlinecap ld/M
+/setmiterlimit ld/w/setlinewidth ld/O{/FillOverprint xd}bd/R{/OutlineOverprint
+xd}bd/W/eoclip ld/c/curveto ld/C/c ld/l/lineto ld/L/l ld/rl/rlineto ld/m
+/moveto ld/n/newpath ld/N/newpath ld/P{11 rp}bd/u{}bd/U{}bd/A{pop}bd/q/@gs ld
+/Q/@gr ld/&{}bd/@j{@sv @np}bd/@J{@rs}bd/g{1 exch sub 0 0 0 4 roll 3
+create_cmyk_color set_solid_fill/$fil 0 def}bd/G{1 sub neg 0 0 0 4 -1 roll
+create_cmyk_color set_outline}bd/i{dup 0 ne{setflat}{pop}ifelse}bd/v{4 -2 roll
+2 copy 6 -2 roll c}bd/V/v ld/y{2 copy c}bd/Y/y ld/@w{matrix rotate/$ptm xd
+matrix scale $ptm dup concatmatrix/$ptm xd 1 eq{$ptm exch dup concatmatrix
+/$ptm xd}if/patternScallingMatrix where{pop patternScallingMatrix $ptm matrix
+concatmatrix/$ptm xd}if 1 w}bd/@g{1 eq dup/$sdf xd{/$scp xd/$sca xd/$scf xd}if
+}bd/@G{1 eq dup/$SDF xd{/$SCP xd/$SCA xd/$SCF xd}if}bd/@D{2 index 0 eq{$dsf 3 1
+roll 4 -1 roll pop}if 3 copy exch $Scra add exch load SetScr/$dsp xd/$dsa xd
+/$dsf xd}bd/$ngx{$SDF{$SCF SeparationMode/Composite eq{$SCA}{$dsa}ifelse $SCP
+@ss}if}bd/min{2 copy le{pop}{exch pop}ifelse}bd/max{2 copy ge{pop}{exch pop}
+ifelse}bd/in_range{3 -1 roll min max}bd/InRange/in_range load bd/@sqr{dup 0 rl
+dup 0 exch rl neg 0 rl @cp}bd/currentscale{1 0 dtransform matrix defaultmatrix
+idtransform dup mul exch dup mul add sqrt 0 1 dtransform matrix defaultmatrix
+idtransform dup mul exch dup mul add sqrt}bd/@unscale{}bd/wDstChck{2 1 roll dup
+3 -1 roll eq{1 add}if}bd/@dot{dup mul exch dup mul add 1 exch sub}bd/@lin{exch
+pop abs 1 exch sub}bd/cmyk2rgb{3{dup 5 -1 roll add 1 exch sub dup 0 lt{pop 0}
+if exch}repeat pop}bd/rgb2cmyk{3{1 exch sub 3 1 roll}repeat 3 copy min min 3{
+dup 5 -1 roll sub neg exch}repeat}bd/rgb2g{2 index .299 mul 2 index .587 mul
+add 1 index .114 mul add 4 1 roll pop pop pop}bd/WaldoColor_5 where{pop}{
+/CorelImage systemdict/image get def/CorelSetGray systemdict/setgray get def
+/CorelGetGray systemdict/currentgray get def/CorelSetTransfer systemdict
+/settransfer get def/CorelGetTransfer systemdict/currenttransfer get def
+/SetRgb/setrgbcolor ld/GetRgb/currentrgbcolor ld/SetGry/setgray ld/GetGry
+/currentgray ld/SetRgb2 systemdict/setrgbcolor get def/GetRgb2 systemdict
+/currentrgbcolor get def/SetHsb systemdict/sethsbcolor get def/GetHsb
+systemdict/currenthsbcolor get def/rgb2hsb{SetRgb2 GetHsb}bd/hsb2rgb{3 -1 roll
+dup floor sub 3 1 roll SetHsb GetRgb2}bd/setcmykcolor where{pop/LumSepsDict
+where{pop/SetCmyk_5{LumSepsDict/setcmykcolor get exec}def}{/AldusSepsDict where
+{pop/SetCmyk_5{AldusSepsDict/setcmykcolor get exec}def}{/SetCmyk_5
+/setcmykcolor ld}ifelse}ifelse}{/setcmykcolor{create_cmyk_color
+/separate_set_color dexec/$ffpnt xd}bd/SetCmyk_5{cmyk2rgb SetRgb}bd}ifelse
+/currentcmykcolor where{pop/GetCmyk/currentcmykcolor ld}{/GetCmyk{GetRgb
+rgb2cmyk}bd}ifelse/setoverprint where{pop}{/setoverprint{/CurrentOverprint xd}
+bd}ifelse/currentoverprint where{pop}{/currentoverprint{CurrentOverprint}bd}
+ifelse/colorimage where{pop/ColorImage{colorimage}def}{/ColorImage{/ncolors xd
+/$multi xd $multi true eq{ncolors 3 eq{/daqB xd/daqG xd/daqR xd pop pop exch
+pop abs{daqR pop daqG pop daqB pop}repeat}{/daqK xd/daqY xd/daqM xd/daqC xd pop
+pop exch pop abs{daqC pop daqM pop daqY pop daqK pop}repeat}ifelse}{/dataaq xd
+{dataaq ncolors dup 3 eq{/$dat xd 0 1 $dat length 3 div 1 sub{dup 3 mul $dat 1
+index get 255 div $dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div
+rgb2g 255 mul cvi exch pop $dat 3 1 roll put}for $dat 0 $dat length 3 idiv
+getinterval pop}{4 eq{/$dat xd 0 1 $dat length 4 div 1 sub{dup 4 mul $dat 1
+index get 255 div $dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div
+$dat 4 index 3 add get 255 div cmyk2rgb rgb2g 255 mul cvi exch pop $dat 3 1
+roll put}for $dat 0 $dat length ncolors idiv getinterval}if}ifelse}image}
+ifelse}bd}ifelse/currentcmykcolor{GetCmyk}bd/sethsbcolor{hsb2rgb setrgbcolor}
+bd/currenthsbcolor{currentrgbcolor rgb2hsb}bd/setgray{dup dup setrgbcolor}bd
+/currentgray{currentrgbcolor rgb2g}bd/InsideDCS false def/IMAGE/image ld/image
+{InsideDCS{IMAGE}{/EPSDict where{pop SeparationMode/Composite eq{IMAGE}{dup
+type/dicttype eq{dup/ImageType get 1 ne{IMAGE}{dup dup/BitsPerComponent get 8
+eq exch/BitsPerComponent get 1 eq or currentcolorspace 0 get DocGrayScaleSpace
+eq and{SeparationPlateName(Black)eq{IMAGE}{dup/DataSource get/TCC xd/Height get
+abs{TCC pop}repeat}ifelse}{IMAGE}ifelse}ifelse}{2 index 1 ne{
+SeparationPlateName(Black)eq{IMAGE}{/TCC xd pop pop exch pop abs{TCC pop}
+repeat}ifelse}{IMAGE}ifelse}ifelse}ifelse}{IMAGE}ifelse}ifelse}bd}ifelse/$fm 0
+def/wfill{1 $fm eq{fill}{eofill}ifelse}bd/@Pf{@sv SeparationMode/Composite eq{
+true}{$Psc 0 ne or $ink_5 3 eq or}ifelse{0 J 0 j[]0 d FillOverprint
+safe_setoverprint FillColor/separate_set_color dexec pop $ctm setmatrix 72 1000
+div dup matrix scale dup concat dup Bburx exch Bbury exch itransform ceiling
+cvi/Bbury xd ceiling cvi/Bburx xd Bbllx exch Bblly exch itransform floor cvi
+/Bblly xd floor cvi/Bbllx xd $Prm aload pop $Psn load exec}{1 SetGry wfill}
+ifelse @rs @np}bd/F{matrix currentmatrix $sdf{$scf $sca $scp @ss}if
+FillOverprint safe_setoverprint $fil 1 eq{CorelPtrnDoFill}{$fil 2 eq
+{gradient_fill}{$fil 3 eq{@Pf}{get_simulate_devicen FillColor/ColorModel get
+/DeviceN eq and{0 1 FillColor/num get 1 sub{dup 0 gt{true safe_setoverprint}if
+FillColor/get_ink_as_spot dexec/set_color dexec @gs wfill @gr}for}{FillColor
+/separate_set_color dexec{wfill}{@np}ifelse}ifelse}ifelse}ifelse}ifelse $sdf{
+$dsf $dsa $dsp @ss}if setmatrix}bd/f{@cp F}bd/S{matrix currentmatrix $ctm
+setmatrix $SDF{$SCF $SCA $SCP @ss}if OutlineOverprint safe_setoverprint
+get_simulate_devicen OutlineColor/ColorModel get/DeviceN eq and{0 1
+OutlineColor/num get 1 sub{dup 0 gt{true safe_setoverprint}if OutlineColor
+/get_ink_as_spot dexec/set_color dexec matrix currentmatrix $ptm concat @gs
+stroke @gr setmatrix}for}{OutlineColor/separate_set_color dexec{matrix
+currentmatrix $ptm concat stroke setmatrix}{@np}ifelse}ifelse $SDF{$dsf $dsa
+$dsp @ss}if setmatrix}bd/s{@cp S}bd/B{@gs F @gr S}bd/b{@cp B}bd/_E{5 array
+astore exch cvlit xd}bd/@cc{currentfile $dat readhexstring pop}bd/@sm{/$ctm
+$ctm currentmatrix def}bd/@E{/Bbury xd/Bburx xd/Bblly xd/Bbllx xd}bd/@c{@cp}bd
+/@P{/$fil 3 def/$Psn xd/$Psc xd array astore/$Prm xd}bd/tcc{@cc}def/@B{@gs S
+@gr F}bd/@b{@cp @B}bd/init_separation{/SeparationMode where{pop}{
+/SeparationMode/Composite def}ifelse/SeparationPlateName where{pop}{
+/SeparationPlateName null def}ifelse/SeparateInColor where{pop}{
+/SeparateInColor false def}ifelse SeparationMode/Composite eq{
+/SeparationPlateIndex -1 def}{/SeparationPlateIndex 4 def}ifelse/CmykPlates[
+/Cyan/Magenta/Yellow/Black]def 0 1 3{dup CmykPlates exch get
+SeparationPlateName eq{/SeparationPlateIndex xd exit}if pop}for
+/CurrentInkName_5 SeparationPlateName def/$ink_5 SeparationPlateIndex def
+SeparationMode/OnHost eq{/SepMode_5 2 def}{/SepMode_5 0 def}ifelse/SepsColor
+SeparateInColor def}bd/init_separation_from_legacy{EpsFile{/SepMode_5 where{
+pop SepMode_5 2 eq{/SeparationMode/OnHost def}{/SeparationMode/Composite def}
+ifelse}if/CurrentInkName_5 where{pop/SeparationPlateName CurrentInkName_5 def}
+if/$ink_5 where{pop/SeparationPlateIndex $ink_5 def}if/SepsColor where{pop
+/SeparateInColor SepsColor def}if}if}bd init_separation_from_legacy/@whi{@gs
+-72000 dup m -72000 72000 l 72000 dup l 72000 -72000 l @cp 1 SetGry fill @gr}
+bd/@neg{[{1 exch sub}/exec cvx currenttransfer/exec cvx]cvx settransfer @whi}
+bd/deflevel 0 def/@sax{/deflevel deflevel 1 add def}bd/@eax{/deflevel deflevel
+dup 0 gt{1 sub}if def deflevel 0 gt{/eax load}{eax}ifelse}bd/eax{{exec}forall}
+bd/@rax{deflevel 0 eq{@rs @sv}if}bd systemdict/pdfmark known not{/pdfmark
+/cleartomark ld}if/wclip{1 $fm eq{clip}{eoclip}ifelse}bd
+%----------------------------------------------------------------------------
+% Raster images support
+/set_image_clipping{concat 3 index 3 index m 3 index 1 index l 2 copy l 1 index
+3 index l 3 index 3 index l clip pop pop pop pop}bd/set_image_parameters{/$frg
+xd/$bkg xd/$ury xd/$urx xd/$lly xd/$llx xd/$ncl xd/$bts xd/$hei xd/$wid xd}bd
+/output_image{/@cc xd @sm @gs set_image_clipping set_image_parameters
+SeparationMode/OnHost eq EpsFile and{separate_output_image}{
+output_composite_image}ifelse @gr $ctm setmatrix}bd/output_composite_image{
+DocPsLevel 3 eq MaskedImage true eq and{output_masked_image}{$bts 1 gt
+DocPsLevel 2 eq DocPsLevel 3 eq or and{DevicenImage{output_devicen_image}{
+output_color_image}ifelse}{$bts 1 eq{output_monochrome_image}{
+output_color_image_level1}ifelse}ifelse}ifelse}bd/separate_output_image{@gs
+$bts 1 gt{separate_output_color_image}{separate_output_monochrome_image}ifelse
+@gr not{currentoverprint not{1.0 SetGry wfill}if}if @np}bd/set_decode_filter{
+ImageCompression/JPEG eq{/DCTDecode filter}{ImageCompression/RLE eq{
+/RunLengthDecode filter}{ImageCompression/LZW eq{/LZWDecode filter}if}ifelse}
+ifelse}bd/create_datasource{currentfile DevicenImage not get_ps_level 2 gt or{
+/ASCII85Decode filter}if set_decode_filter}bd/set_image_strip_parameters{
+/stripRows xd/numPlanes xd/stripBuffer $wid $bts mul $ncl mul stripRows mul 8
+div ceiling cvi dup 65535 gt{pop $ncl $bts mul}if string def DevicenImage{
+/readstrip{DataSource stripBuffer readhexstring pop}bd}{/readstrip{DataSource
+stripBuffer readstring pop}bd}ifelse/stripHeight $lly $ury sub stripRows mul
+$hei div def/stripOutBuffer $wid stripRows mul numPlanes mul 65535 min string
+def/strip_img_dict 8 dict def strip_img_dict begin/ImageType 1 def/Width $wid
+def/Height stripRows def/BitsPerComponent $bts def/Decode[numPlanes{0 1}
+repeat]def/ImageMatrix[$wid 0 0 stripRows neg 0 $hei 0 gt{stripRows}{0}ifelse]
+def/DataSource stripOutBuffer def end}bd/separate_output_color_image{
+/plateContent false def $ncl 1 eq{SeparationPlateName/Black eq{
+output_color_image/plateContent true def}if}{@np/DataSource create_datasource
+def SeparateInColor{DocCmykSpace setcolorspace/numPlanes 4 def}{
+DocGrayScaleSpace setcolorspace/numPlanes 1 def}ifelse/stripRows 65535 $wid
+$bts mul $ncl numPlanes max mul 8 div div floor cvi 1 max def numPlanes
+stripRows set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling
+cvi 1 sub def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight
+stripIndex mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi
+def stripIndex maxStripIndex eq{numPlanes $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs 0 1 $wid stripRows mul 1 sub{/pixelIndex xd stripBuffer
+pixelIndex $ncl mul $ncl getinterval{255 div}forall DevicenImage{
+ImageDevicenSpace create_devicen_color}{$ncl 3 eq{create_rgb_color}{
+create_cmyk_color}ifelse}ifelse/separate_color dexec{/plateContent true def
+begin color aload pop end}{pop numPlanes[numPlanes 1 eq{1}{0}ifelse]cvx repeat
+}ifelse numPlanes array astore/pixelSepIndex pixelIndex numPlanes mul def
+/posColorant 0 def{stripOutBuffer pixelSepIndex posColorant add 3 -1 roll 255
+mul cvi put/posColorant posColorant 1 add def}forall}for $llx $t_lly Tl $urx
+$llx sub $t_ury $t_lly sub scale strip_img_dict image @gr}for $SDF{$dsf $dsa
+$dsp @ss}if}ifelse plateContent}bd/separate_output_monochrome_image{
+SeparationPlateName/Black eq{output_monochrome_image true}{false}ifelse}bd
+/output_monochrome_image{$frg 1 eq{OutlineOverprint safe_setoverprint
+ImageForegroundColor/separate_set_color dexec{1}{0}ifelse/$frg xd}{/$frg false
+def}ifelse $bkg 1 eq{@gs $ctm setmatrix F @gr}if @np/$dat $wid $bts mul 8 div
+ceiling cvi 65535 min string def $bkg $frg add 1 ge{$SDF{$SCF $SCA $SCP @ss}if
+$llx $lly Tl $urx $llx sub $ury $lly sub scale $bkg 1 eq{FillColor
+/separate_set_color dexec pop}if $wid $hei abs $bts 1 eq{$bkg 1 ge}{$bts 1 ge}
+ifelse[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]/tcc load $bts 1 eq
+{imagemask}{image}ifelse $SDF{$dsf $dsa $dsp @ss}if}{$hei abs{tcc pop}repeat}
+ifelse}bd/output_color_image_level1{@np $ngx $llx $lly Tl $urx $llx sub $ury
+$lly sub scale $wid $hei abs $bts[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse
+]/$dat $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min string def $msimage
+false eq $ncl 1 eq or{/@cc load false $ncl ColorImage}{$wid $bts mul 8 div
+ceiling cvi $ncl 3 eq{dup dup/$dat1 exch string def/$dat2 exch string def
+/$dat3 exch string def/@cc1 load/@cc2 load/@cc3 load}{dup dup dup/$dat1 exch
+string def/$dat2 exch string def/$dat3 exch string def/$dat4 exch string def
+/@cc1 load/@cc2 load/@cc3 load/@cc4 load}ifelse true $ncl ColorImage}ifelse
+$SDF{$dsf $dsa $dsp @ss}if}bd/@cc1{currentfile $dat1 readhexstring pop}bd/@cc2
+{currentfile $dat2 readhexstring pop}bd/@cc3{currentfile $dat3 readhexstring
+pop}bd/@cc4{currentfile $dat4 readhexstring pop}bd/$msimage false def
+/ImageCompression/None def/MaskedImage false def/DevicenImage false def
+/output_color_image{@np $ncl 1 eq{DocGrayScaleSpace}{$ncl 3 eq{DocRgbSpace}
+{DocCmykSpace}ifelse}ifelse setcolorspace/$dat $wid $bts mul $ncl mul 8 div
+ceiling cvi 65535 min string def $ngx $llx $lly Tl $urx $llx sub $ury $lly sub
+scale 8 dict begin/ImageType 1 def/Width $wid def/Height $hei abs def
+/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]def/ImageMatrix[$wid 0 0 $hei
+neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource create_datasource def currentdict
+end image $SDF{$dsf $dsa $dsp @ss}if}bd/simulate_devicen_image{@np $ngx
+/colorantNames ImageDevicenSpace 1 get def/altColorSpace ImageDevicenSpace 2
+get def/tintProc ImageDevicenSpace 3 get def/DataSource create_datasource def
+/stripRows 65535 $wid $bts mul $ncl mul 8 div div floor cvi 1 max def 1
+stripRows set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling
+cvi 1 sub def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight
+stripIndex mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi
+def stripIndex maxStripIndex eq{1 $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs $llx $t_lly Tl $urx $llx sub $t_ury $t_lly sub scale 0 1 $ncl
+1 sub{@gs/inkIndex exch def 0 1 stripOutBuffer length 1 sub{dup $ncl mul
+inkIndex add stripBuffer exch get stripOutBuffer 3 1 roll put}for[/Separation
+colorantNames inkIndex get altColorSpace{$ncl 1 sub{0}repeat $ncl inkIndex roll
+tintProc}]setcolorspace inkIndex 0 gt{true setoverprint}if strip_img_dict image
+@gr}for @gr}for $SDF{$dsf $dsa $dsp @ss}if}bd/output_devicen_image_alt{@np $ngx
+/colorantNames ImageDevicenSpace 1 get def/altColorSpace ImageDevicenSpace 2
+get def/tintProc ImageDevicenSpace 3 get def altColorSpace DocCmykSpace eq{
+/numAltChannels 4 def}{altColorSpace DocRgbSpace eq{/numAltChannels 3 def}{
+/numAltChannels 1 def}ifelse}ifelse/DataSource create_datasource def
+altColorSpace setcolorspace/stripRows 65535 $wid $bts mul $ncl numAltChannels
+max mul 8 div div floor cvi 1 max def numAltChannels stripRows
+set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling cvi 1 sub
+def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight stripIndex
+mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi def
+stripIndex maxStripIndex eq{numAltChannels $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs 0 1 stripBuffer length $ncl div cvi 1 sub{/pixelIndex xd
+stripBuffer pixelIndex $ncl mul $ncl getinterval{255 div}forall tintProc exec
+numAltChannels array astore/pixelAltIndex pixelIndex numAltChannels mul def
+/posColorant 0 def{stripOutBuffer pixelAltIndex posColorant add 3 -1 roll 255
+mul cvi put/posColorant posColorant 1 add def}forall}for $llx $t_lly Tl $urx
+$llx sub $t_ury $t_lly sub scale strip_img_dict image @gr}for $SDF{$dsf $dsa
+$dsp @ss}if}bd/output_devicen_image_native{@np $ngx ImageDevicenSpace
+setcolorspace/scanline $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min
+string def/readscanline{currentfile scanline readhexstring pop}bind def $llx
+$lly Tl $urx $llx sub $ury $lly sub scale 8 dict begin/ImageType 1 def/Width
+$wid def/Height $hei abs def/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]
+def/ImageMatrix[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource{
+readscanline}def currentdict end image $SDF{$dsf $dsa $dsp @ss}if}bd
+/output_devicen_image{Level3{output_devicen_image_native}{get_simulate_devicen
+{simulate_devicen_image}{output_devicen_image_alt}ifelse}ifelse}bd
+/output_masked_image{/$dat $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min
+string def $ngx DevicenImage{ImageDevicenSpace}{$ncl 1 eq{DocGrayScaleSpace}{
+$ncl 3 eq{DocRgbSpace}{DocCmykSpace}ifelse}ifelse}ifelse setcolorspace $llx
+$lly Tl $urx $llx sub $ury $lly sub scale/ImageDataDict 8 dict def
+ImageDataDict begin/ImageType 1 def/Width $wid def/Height $hei abs def
+/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]def/ImageMatrix[$wid 0 0 $hei
+neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource create_datasource def end
+/MaskedImageDict 7 dict def MaskedImageDict begin/ImageType 3 def
+/InterleaveType 3 def/MaskDict ImageMaskDict def/DataDict ImageDataDict def end
+MaskedImageDict image $SDF{$dsf $dsa $dsp @ss}if}bd/set_image_mask{/$mbts xd
+/$mhei xd/$mwid xd/ImageMaskDict 8 dict def ImageMaskDict begin/ImageType 1 def
+/Width $mwid def/Height $mhei abs def/BitsPerComponent $mbts def/DataSource
+maskstream def/ImageMatrix[$mwid 0 0 $mhei neg 0 $mhei 0 gt{$mhei}{0}ifelse]
+def/Decode[1 0]def end}bd/@daq{dup type/arraytype eq{aload pop}if}bd
+/skip_image_body{8 rp/$ury xd/$urx xd/$lly xd/$llx xd/$ncl xd/$bts xd/$hei xd
+/$wid xd DevicenImage not ImageCompression/JPEG eq or ImageCompression/RLE eq
+or ImageCompression/LZW eq or{create_datasource flushfile}{/scanline $wid $bts
+mul $ncl mul 8 div ceiling cvi dup 65535 gt{pop $bts $ncl mul}if string def
+/upperBound $wid $hei mul $bts mul $ncl mul scanline length div cvi 1 sub def 0
+1 upperBound{pop currentfile scanline readhexstring pop pop}for}ifelse}bd
+/disable_raster_output{deflevel 0 eq{@rs}if/output_image load
+/output_image_original exch def/output_image/skip_image_body load def
+globaldict begin/bSkipDeviceNImage true def end deflevel 0 eq{@sv}if}def
+/enable_raster_output{deflevel 0 eq{@rs}if/bSkipDeviceNImage where{
+/bSkipDeviceNImage undef/output_image/output_image_original load def}if
+deflevel 0 eq{@sv}if}def
+end
+%%EndResource
+%%EndProlog
+%%BeginSetup
+wCorel22Dict begin
+@BeginSysCorelDict
+/$dcm matrix currentmatrix def
+@ssa
+1.00 setflat
+/$fst 128 def
+%%EndSetup
+
+%BeginPhotoshop: 964
+% 3842494D04040000000003B71C015A00031B25471C0100000200041C020500A0
+% 4F6E65206C696E652064726177696E67206F662069736F6C6174656420766563
+% 746F72206F626A6563742070686F6E652072656365697665722E2054656C6570
+% 686F6E652069636F6E206F6E207768697465206261636B67726F756E642E2049
+% 6C6C757374726174696F6E20666F722062616E6E65722C207765622C20646573
+% 69676E20656C656D656E742C2074656D706C6174652C20706F7374636172642E
+% 1C0219000570686F6E651C021900046C696E651C02190006766563746F721C02
+% 19000463616C6C1C02190006736B657463681C0219000C696C6C757374726174
+% 696F6E1C021900076F75746C696E651C02190007677261706869631C02190006
+% 616E737765721C0219000469636F6E1C0219000A636F6E6365707475616C1C02
+% 19000474616C6B1C0219000863726561746976651C0219000861627374726163
+% 741C021900036172741C0219000A6261636B67726F756E641C02190005626C61
+% 636B1C02190008627573696E6573731C02190007636F6E636570741C0219000A
+% 636F6E6E656374696F6E1C02190008636F6E74616374731C0219000A636F6E74
+% 696E756974791C0219000D636F6E766572736174696F6E731C02190005637572
+% 76651C0219000664657369676E1C021900046469616C1C02190006646F6F646C
+% 651C0219000764726177696E671C02190008656C656D656E74731C0219000667
+% 72756E67651C02190004696465611C0219000869736F6C617465641C02190004
+% 6974656D1C021900066C696E6561721C021900086D65746170686F721C021900
+% 0C6D696E696D616C69737469631C021900066E756D6265721C02190004736967
+% 6E1C0219000A73696C686F75657474651C0219000A73696D706C69636974791C
+% 0219000573706163651C0219000873747261696768741C021900087374796C69
+% 7A65641C0219000673796D626F6C1C0219000974656C6570686F6E651C021900
+% 067472656E64791C02190004776176651C027800C74F6E65206C696E65206472
+% 6177696E67206F662069736F6C6174656420766563746F72206F626A65637420
+% 70686F6E652072656365697665722E2054656C6570686F6E652069636F6E206F
+% 6E207768697465206261636B67726F756E642E20496C6C757374726174696F6E
+% 20666F722062616E6E65722C207765622C2064657369676E20656C656D656E74
+% 2C2074656D706C6174652C20706F7374636172642E2048616E64206472617769
+% 6E6720627573696E65737320636F6E63657074206F662070686F6E651C020000
+% 02000400
+%EndPhotoshop
+%begin_xml_code
+/pdfmark where {pop true} {false} ifelse
+/currentdistillerparams where {pop currentdistillerparams
+/CoreDistVersion get 5000 ge } {false} ifelse
+and not {userdict /pdfmark /cleartomark load put} if
+[/NamespacePush pdfmark
+[/_objdef {exiftool_metadata_stream} /type /stream /OBJ pdfmark
+[{exiftool_metadata_stream} 2 dict begin /Type /Metadata def
+  /Subtype /XML def currentdict end /PUT pdfmark
+/MetadataString 4737 string def % exact length of metadata
+/TempString 100 string def
+/ConsumeMetadata {
+currentfile TempString readline pop pop
+currentfile MetadataString readstring pop pop
+} bind def
+ConsumeMetadata
+%begin_xml_packet: 4737
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 11.51'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>One line drawing of isolated vector object phone receiver. Telephone icon on white background. Illustration for banner, web, design element, template, postcard. Hand drawing business concept of phone</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>phone</rdf:li>
+    <rdf:li>line</rdf:li>
+    <rdf:li>vector</rdf:li>
+    <rdf:li>call</rdf:li>
+    <rdf:li>sketch</rdf:li>
+    <rdf:li>illustration</rdf:li>
+    <rdf:li>outline</rdf:li>
+    <rdf:li>graphic</rdf:li>
+    <rdf:li>answer</rdf:li>
+    <rdf:li>icon</rdf:li>
+    <rdf:li>conceptual</rdf:li>
+    <rdf:li>talk</rdf:li>
+    <rdf:li>creative</rdf:li>
+    <rdf:li>abstract</rdf:li>
+    <rdf:li>art</rdf:li>
+    <rdf:li>background</rdf:li>
+    <rdf:li>black</rdf:li>
+    <rdf:li>business</rdf:li>
+    <rdf:li>concept</rdf:li>
+    <rdf:li>connection</rdf:li>
+    <rdf:li>contacts</rdf:li>
+    <rdf:li>continuity</rdf:li>
+    <rdf:li>conversations</rdf:li>
+    <rdf:li>curve</rdf:li>
+    <rdf:li>design</rdf:li>
+    <rdf:li>dial</rdf:li>
+    <rdf:li>doodle</rdf:li>
+    <rdf:li>drawing</rdf:li>
+    <rdf:li>elements</rdf:li>
+    <rdf:li>grunge</rdf:li>
+    <rdf:li>idea</rdf:li>
+    <rdf:li>isolated</rdf:li>
+    <rdf:li>item</rdf:li>
+    <rdf:li>linear</rdf:li>
+    <rdf:li>metaphor</rdf:li>
+    <rdf:li>minimalistic</rdf:li>
+    <rdf:li>number</rdf:li>
+    <rdf:li>sign</rdf:li>
+    <rdf:li>silhouette</rdf:li>
+    <rdf:li>simplicity</rdf:li>
+    <rdf:li>space</rdf:li>
+    <rdf:li>straight</rdf:li>
+    <rdf:li>stylized</rdf:li>
+    <rdf:li>symbol</rdf:li>
+    <rdf:li>telephone</rdf:li>
+    <rdf:li>trendy</rdf:li>
+    <rdf:li>wave</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>One line drawing of isolated vector object phone receiver. Telephone icon on white background. Illustration for banner, web, design element, template, postcard.</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>
+%end_xml_packet
+[{exiftool_metadata_stream} MetadataString /PUT pdfmark
+[/Document 1 dict begin
+  /Metadata {exiftool_metadata_stream} def currentdict end /BDC pdfmark
+[/NamespacePop pdfmark
+%end_xml_code
+%%Page: 1 1
+%%ViewingOrientation: 1 0 0 1
+%%BoundingBox: 0 0 2039 2039
+%LogicalPage: 1
+%%BeginPageSetup
+@sv
+@sm
+@sv
+%%EndPageSetup
+@rax %Note: Object
+0.00000 0.00000 2039.99981 2039.99981 @E
+/$fm 0 def
+ 0 O 0 @g
+1.0000 1.0000 1.0000  create_rgb_color set_solid_fill
+0.00000 2039.99981 m
+2039.99981 2039.99981 L
+2039.99981 0.00000 L
+0.00000 0.00000 L
+0.00000 2039.99981 L
+@c
+F
+
+%SetClippingRegion: 9 points
+@rs
+/$fm 0 def
+@gs @np 
+0.00000 2039.99981 m
+2039.99981 2039.99981 L
+2039.99981 0.00000 L
+0.00000 0.00000 L
+0.00000 2039.99981 L
+@c
+wclip @np
+@sv
+
+
+@rax %Note: Object
+-36.60690 348.90576 1807.11808 1584.57798 @E
+/$fm 0 def
+1 J 1 j 22.925585626053735 setmiterlimit
+[] 0 d 0 R 0 @G
+0.0000 0.0000 0.0000  create_rgb_color set_outline
+0 9.60009 9.60009 0.00000 @w
+-36.60690 348.90576 m
+253.12620 348.90576 542.85931 348.90576 693.22649 348.90576 c
+843.59339 348.90576 854.59465 348.90576 862.11581 349.80378 c
+869.63698 350.70180 873.67805 352.49783 875.47436 354.91124 c
+877.27039 357.32466 876.82139 360.35575 868.73896 362.32016 c
+860.65654 364.28457 844.94041 365.18287 835.95997 368.99972 c
+826.97953 372.81628 824.73420 379.55169 823.27493 388.86917 c
+821.81565 398.18636 821.14214 410.08535 821.92791 419.17833 c
+822.71367 428.27102 824.95871 434.55742 827.76472 435.12321 c
+830.57046 435.68901 833.93717 430.53449 837.75402 422.56431 c
+841.57058 414.59386 845.83757 403.80803 849.99175 396.39458 c
+854.14564 388.98113 858.18671 384.93978 862.90157 382.69474 c
+867.61644 380.44970 873.00454 380.00069 876.37238 381.01096 c
+879.73994 382.02123 881.08724 384.49106 877.15843 391.67546 c
+873.22932 398.85987 864.02409 410.75887 858.18671 420.63761 c
+852.34932 430.51606 849.87978 438.37398 850.66554 445.33389 c
+851.45131 452.29380 855.49238 458.35569 859.30923 459.81524 c
+863.12608 461.27452 866.71814 458.13118 870.31049 448.70173 c
+873.90283 439.27228 877.49490 423.55616 880.97499 414.12671 c
+884.45480 404.69726 887.82265 401.55392 891.52724 400.65591 c
+895.23156 399.75789 899.27263 401.10491 898.71137 410.87140 c
+898.15011 420.63761 892.98624 438.82299 891.52696 451.28353 c
+890.06740 463.74406 892.31272 470.47946 895.79282 474.52082 c
+899.27263 478.56189 903.98721 479.90920 907.01830 477.21515 c
+910.04910 474.52082 911.39641 467.78542 911.95767 457.45795 c
+912.51893 447.13020 912.29443 433.21011 914.09074 424.56643 c
+915.88677 415.92274 919.70334 412.55490 923.52019 411.76913 c
+927.33676 410.98337 931.15361 412.77969 931.60261 422.77068 c
+932.05162 432.76139 929.13279 450.94677 928.79603 463.74406 c
+928.45928 476.54135 930.70460 483.95027 935.30721 488.66513 c
+939.90954 493.37972 946.86945 495.40054 950.79855 493.38000 c
+954.72737 491.35918 955.62539 485.29729 954.39061 474.63307 c
+953.15584 463.96857 949.78800 448.70145 949.56350 438.03723 c
+949.33899 427.37272 952.25783 421.31112 956.18693 419.73959 c
+960.11575 418.16778 965.05483 421.08661 967.74917 431.97562 c
+970.44321 442.86435 970.89222 461.72324 972.91304 473.62252 c
+974.93357 485.52180 978.52564 490.46117 983.91402 493.15550 c
+989.30239 495.84954 996.48680 496.29855 1000.19140 493.15550 c
+1003.89572 490.01216 1004.12022 483.27676 1001.31392 471.26551 c
+998.50734 459.25398 992.66995 441.96633 990.31266 431.07761 c
+987.95509 420.18860 989.07789 415.69824 993.68050 413.34094 c
+998.28283 410.98337 1006.36554 410.75887 1010.85591 421.42337 c
+1015.34598 432.08759 1016.24400 453.64110 1018.60157 467.67317 c
+1020.95887 481.70523 1024.77543 488.21584 1028.81650 489.56315 c
+1032.85786 490.91017 1037.12372 487.09332 1039.03200 481.14397 c
+1040.94028 475.19433 1040.49128 467.11162 1038.58299 454.31461 c
+1036.67471 441.51732 1033.30687 424.00517 1034.99065 414.35121 c
+1036.67471 404.69726 1043.41011 402.90094 1048.34920 404.02346 c
+1053.28857 405.14598 1056.43191 409.18734 1058.22794 418.95354 c
+1060.02397 428.71975 1060.47326 444.21137 1061.59578 457.34542 c
+1062.71830 470.47946 1064.51433 481.25594 1068.21865 486.08306 c
+1071.92324 490.91017 1077.53613 489.78737 1081.57720 486.64431 c
+1085.61855 483.50098 1088.08838 478.33739 1087.19008 466.55036 c
+1086.29206 454.76334 1082.02649 436.35345 1080.45468 424.79093 c
+1078.88315 413.22841 1080.00567 408.51383 1083.70998 407.16680 c
+1087.41458 405.81950 1093.70098 407.84031 1098.19106 412.33068 c
+1102.68142 416.82076 1105.37575 423.78066 1106.72277 434.22066 c
+1108.06980 444.66038 1108.06980 458.58019 1109.41682 467.22416 c
+1110.76384 475.86784 1113.45817 479.23540 1118.39726 478.00063 c
+1123.33663 476.76586 1130.52132 470.92847 1132.76636 459.36595 c
+1135.01140 447.80343 1132.31735 430.51606 1128.78113 420.35698 c
+1125.24520 410.19761 1120.86709 407.16652 1118.56592 403.79896 c
+1116.26476 400.43112 1116.03997 396.72680 1118.28501 393.41537 c
+1120.53033 390.10365 1125.24491 387.18510 1134.84274 385.50132 c
+1144.44085 383.81754 1158.92220 383.36825 1175.08706 386.56772 c
+1191.25191 389.76690 1209.10082 396.61455 1226.33206 408.90671 c
+1243.56331 421.19887 1260.17745 438.93524 1271.23455 453.75335 c
+1282.29194 468.57118 1287.79257 480.47017 1290.37436 487.76683 c
+1292.95644 495.06350 1292.61969 497.75783 1289.92535 500.00287 c
+1287.23131 502.24791 1282.17997 504.04422 1278.64375 504.15647 c
+1275.10781 504.26872 1273.08699 502.69691 1267.08123 493.99710 c
+1261.07546 485.29729 1251.08476 469.46891 1237.10882 454.93172 c
+1223.13288 440.39452 1205.17172 427.14850 1188.67011 419.29058 c
+1172.16850 411.43266 1157.12589 408.96283 1147.69644 407.84031 c
+1138.26699 406.71780 1134.45014 406.94230 1131.86835 406.10041 c
+1129.28655 405.25852 1127.93924 403.34995 1127.04123 401.55392 c
+1126.14321 399.75789 1125.69392 398.07383 1126.64806 396.83906 c
+1127.60220 395.60428 1129.95978 394.81852 1134.44986 394.53789 c
+1138.94022 394.25726 1145.56337 394.48176 1153.81417 395.99717 c
+1162.06526 397.51257 1171.94372 400.31915 1181.87830 404.02375 c
+1191.81317 407.72806 1201.80416 412.33039 1212.24387 418.56066 c
+1222.68387 424.79093 1233.57260 432.64885 1244.29323 443.93074 c
+1255.01386 455.21235 1265.56583 469.91820 1274.32176 478.39351 c
+1283.07798 486.86882 1290.03761 489.11414 1298.28841 490.34891 c
+1306.53950 491.58369 1316.08120 491.80819 1327.92435 493.37972 c
+1339.76750 494.95124 1353.91181 497.87008 1369.17865 502.64107 c
+1384.44548 507.41178 1400.83483 514.03493 1412.84608 520.65808 c
+1424.85761 527.28123 1432.49131 533.90438 1441.41562 545.13014 c
+1450.33994 556.35562 1460.55543 572.18400 1467.57146 585.87931 c
+1474.58750 599.57461 1478.40406 611.13685 1480.87361 623.82189 c
+1483.34343 636.50693 1484.46624 650.31449 1484.07307 664.17817 c
+1483.68019 678.04186 1481.77191 691.96167 1477.11317 707.45301 c
+1472.45443 722.94435 1465.04551 740.00750 1457.63660 751.79452 c
+1450.22769 763.58126 1442.81877 770.09216 1432.15427 776.71531 c
+1421.49005 783.33846 1407.57024 790.07386 1396.51285 794.17134 c
+1385.45575 798.26854 1377.26107 799.72781 1369.62765 799.95231 c
+1361.99424 800.17682 1354.92208 799.16655 1345.82910 795.40611 c
+1336.73641 791.64539 1325.62318 785.13449 1313.83616 775.87342 c
+1302.04913 766.61206 1289.58888 754.60082 1278.58762 741.80353 c
+1267.58636 729.00624 1258.04466 715.42318 1248.95169 700.77373 c
+1239.85899 686.12428 1231.21531 670.40816 1224.81666 653.56980 c
+1218.41802 636.73143 1214.26469 618.77027 1212.69288 603.55956 c
+1211.12135 588.34885 1212.13162 575.88831 1215.16243 563.82066 c
+1218.19351 551.75301 1223.24485 540.07852 1230.70989 532.38898 c
+1238.17521 524.69915 1248.05367 520.99483 1254.84520 517.73953 c
+1261.63701 514.48394 1265.34132 511.67735 1267.75474 510.66709 c
+1270.16844 509.65682 1271.29096 510.44287 1270.28069 513.24945 c
+1269.27043 516.05575 1266.12709 520.88258 1265.39745 523.91367 c
+1264.66781 526.94447 1266.35159 528.17924 1272.24510 530.20006 c
+1278.13861 532.22060 1288.24157 535.02690 1298.06391 539.68564 c
+1307.88652 544.34438 1317.42850 550.85499 1329.21524 562.13688 c
+1341.00227 573.41877 1355.03433 589.47137 1366.25981 606.08551 c
+1377.48557 622.69937 1385.90504 639.87477 1392.47206 658.06044 c
+1399.03909 676.24583 1403.75367 695.44148 1405.10069 712.50463 c
+1406.44800 729.56750 1404.42718 744.49786 1398.70205 755.16236 c
+1392.97720 765.82658 1383.54746 772.22494 1374.06161 775.14378 c
+1364.57603 778.06233 1355.03433 777.50107 1344.70658 773.34775 c
+1334.37883 769.19414 1323.26561 761.44819 1312.37660 749.99820 c
+1301.48787 738.54794 1290.82337 723.39335 1279.76598 705.82535 c
+1268.70888 688.25707 1257.25890 668.27565 1251.30926 650.42674 c
+1245.35962 632.57783 1244.91061 616.86198 1245.92088 604.00857 c
+1246.93115 591.15515 1249.40098 581.16444 1253.16142 574.87805 c
+1256.92214 568.59165 1261.97348 566.00986 1267.47411 564.99959 c
+1272.97474 563.98904 1278.92409 564.55058 1286.27688 567.80617 c
+1293.62967 571.06148 1302.38589 577.01083 1309.85093 582.39921 c
+1317.31597 587.78759 1323.49011 592.61443 1333.92983 604.51370 c
+1344.36983 616.41298 1359.07540 635.38413 1368.78548 652.61565 c
+1378.49584 669.84690 1383.21043 685.33852 1384.22069 701.27887 c
+1385.23124 717.21921 1382.53691 733.60885 1381.69502 746.35002 c
+1380.85313 759.09090 1381.86340 768.18387 1383.60331 773.85288 c
+1385.34350 779.52161 1387.81304 781.76693 1396.00772 782.94557 c
+1404.20268 784.12422 1418.12249 784.23647 1429.96535 786.14504 c
+1441.80850 788.05332 1451.57499 791.75764 1458.08589 796.75313 c
+1464.59679 801.74863 1467.85209 808.03474 1472.73534 823.24573 c
+1477.61858 838.45644 1484.12920 862.59146 1493.44639 890.48750 c
+1502.76387 918.38324 1514.88765 950.03943 1529.59323 987.87005 c
+1544.29880 1025.70038 1561.58646 1069.70513 1579.54734 1107.08646 c
+1597.50850 1144.46778 1616.14290 1175.22624 1626.13361 1193.13099 c
+1636.12460 1211.03603 1637.47191 1216.08737 1637.86479 1220.80224 c
+1638.25767 1225.51710 1637.69613 1229.89493 1635.28243 1237.35997 c
+1632.86901 1244.82501 1628.60343 1255.37726 1624.16920 1261.10211 c
+1619.73524 1266.82724 1615.13263 1267.72554 1609.07074 1269.12869 c
+1603.00913 1270.53184 1595.48769 1272.44041 1587.96652 1275.69572 c
+1580.44535 1278.95131 1572.92419 1283.55364 1566.30104 1290.73805 c
+1559.67789 1297.92246 1553.95304 1307.68894 1550.24844 1316.16425 c
+1546.54413 1324.63956 1544.86006 1331.82397 1544.01817 1338.61550 c
+1543.17628 1345.40702 1543.17628 1351.80567 1543.12016 1363.08728 c
+1543.06403 1374.36917 1542.95178 1390.53430 1544.91619 1407.70942 c
+1546.88088 1424.88482 1550.92195 1443.07020 1557.99411 1461.81713 c
+1565.06627 1480.56406 1575.16951 1499.87197 1586.17049 1517.55222 c
+1597.17175 1535.23276 1609.07074 1551.28564 1621.41902 1562.45499 c
+1633.76731 1573.62463 1646.56460 1579.91074 1658.35134 1582.71704 c
+1670.13836 1585.52362 1680.91512 1584.85011 1694.49817 1582.71732 c
+1708.08123 1580.58454 1724.47058 1576.99219 1737.26787 1571.82831 c
+1750.06517 1566.66472 1759.27011 1559.92932 1767.85767 1549.71383 c
+1776.44523 1539.49861 1784.41569 1525.80331 1790.87046 1509.75043 c
+1797.32523 1493.69783 1802.26431 1475.28794 1804.84611 1459.68406 c
+1807.42819 1444.08047 1807.65269 1431.28318 1806.30539 1418.37364 c
+1804.95836 1405.46409 1802.03981 1392.44258 1796.98819 1380.20655 c
+1791.93657 1367.97052 1784.75244 1356.52054 1776.55776 1346.08054 c
+1768.36309 1335.64082 1759.15786 1326.21109 1746.97795 1316.33235 c
+1734.79833 1306.45389 1719.64346 1296.12643 1706.22879 1288.26822 c
+1692.81411 1280.41030 1681.13962 1275.02220 1671.70989 1272.27175 c
+1662.28044 1269.52157 1655.09603 1269.40932 1644.31928 1271.42986 c
+1633.54280 1273.45068 1619.17398 1277.60400 1610.92318 1281.13994 c
+1602.67238 1284.67616 1600.53931 1287.59499 1601.66183 1289.72778 c
+1602.78463 1291.86057 1607.16246 1293.20787 1615.46939 1296.63156 c
+1623.77660 1300.05553 1636.01235 1305.55587 1648.02387 1315.09757 c
+1660.03540 1324.63956 1671.82214 1338.22261 1680.40970 1351.86180 c
+1688.99754 1365.50098 1694.38564 1379.19628 1700.78428 1398.78510 c
+1707.18293 1418.37392 1714.59213 1443.85597 1717.95969 1467.03685 c
+1721.32753 1490.21802 1720.65373 1511.09773 1715.37761 1527.03808 c
+1710.10176 1542.97843 1700.22302 1553.97969 1688.21150 1559.03102 c
+1676.20025 1564.08265 1662.05594 1563.18463 1647.23811 1553.86743 c
+1632.42028 1544.55024 1616.92866 1526.81357 1604.24362 1505.37260 c
+1591.55887 1483.93162 1581.68013 1458.78605 1574.04671 1435.77326 c
+1566.41329 1412.76076 1561.02491 1391.88104 1561.36167 1371.89934 c
+1561.69843 1351.91792 1567.76031 1332.83424 1575.05698 1322.28227 c
+1582.35364 1311.73030 1590.88535 1309.70948 1604.35616 1315.65912 c
+1617.82696 1321.60876 1636.23685 1335.52857 1649.70765 1351.91792 c
+1663.17846 1368.30756 1671.71017 1387.16646 1677.82791 1403.55581 c
+1683.94592 1419.94545 1687.65052 1433.86526 1689.72718 1448.57083 c
+1691.80384 1463.27641 1692.25285 1478.76775 1692.25285 1494.03458 c
+1692.25285 1509.30142 1691.80384 1524.34403 1692.36510 1535.79402 c
+1692.92636 1547.24428 1694.49817 1555.10220 1697.97798 1558.91877 c
+1701.45808 1562.73562 1706.84617 1562.51112 1713.58157 1561.61310 c
+1720.31698 1560.71509 1728.39940 1559.14356 1735.80831 1555.60734 c
+1743.21723 1552.07140 1749.95263 1546.57077 1755.62164 1540.34050 c
+1761.29065 1534.11024 1765.89326 1527.15033 1769.70983 1519.46079 c
+1773.52668 1511.77124 1776.55776 1503.35206 1778.35380 1493.24882 c
+1780.14983 1483.14586 1780.71109 1471.35883 1778.01676 1453.17317 c
+1775.32271 1434.98778 1769.37335 1410.40346 1760.89776 1388.12060 c
+1752.42246 1365.83773 1741.42148 1345.85603 1728.79257 1330.81370 c
+1716.16365 1315.77137 1701.90709 1305.66813 1695.07417 1297.90120 c
+1688.24154 1290.13427 1688.83285 1284.70309 1690.51663 1277.63093 c
+1692.20041 1270.55877 1694.97694 1261.84564 1697.43146 1251.03402 c
+1699.88627 1240.22268 1702.01934 1227.31313 1699.71789 1213.56170 c
+1697.41672 1199.81027 1690.68132 1185.21694 1681.25159 1165.90876 c
+1671.82214 1146.60085 1659.69865 1122.57780 1651.05468 1104.05537 c
+1642.41099 1085.53323 1637.24740 1072.51143 1623.60822 1038.44154 c
+1609.96904 1004.37165 1587.85427 949.25367 1570.84724 902.10586 c
+1553.84050 854.95805 1541.94151 815.78069 1530.49124 791.58954 c
+1519.04098 767.39811 1508.04000 758.19288 1500.23792 751.73839 c
+1492.43613 745.28362 1487.83380 741.57902 1486.09361 736.92057 c
+1484.35370 732.26183 1485.47650 726.64894 1487.83380 717.78076 c
+1490.19109 708.91228 1493.78343 696.78879 1494.68145 680.17493 c
+1495.57946 663.56079 1493.78315 642.45628 1493.55865 631.90431 c
+1493.33414 621.35206 1494.68145 621.35206 1503.10063 631.56756 c
+1511.51981 641.78277 1527.01143 662.21348 1548.00340 691.96167 c
+1568.99537 721.70957 1595.48769 760.77468 1615.35713 794.33943 c
+1635.22658 827.90419 1648.47288 855.96831 1666.71439 896.71748 c
+1684.95619 937.46665 1708.19348 990.90085 1725.87373 1042.14586 c
+1743.55427 1093.39115 1755.67776 1142.44724 1764.88271 1192.40135 c
+1774.08794 1242.35546 1780.37433 1293.20787 1781.01468 1308.13228 c
+1781.65531 1323.05669 1776.65017 1302.05339 1766.52227 1288.30167 c
+1756.39465 1274.55024 1741.14482 1268.05011 1736.39480 1251.67521 c
+1731.64479 1235.30031 1737.39458 1209.05008 1737.64460 1187.30013 c
+1737.89461 1165.55017 1732.64485 1148.30022 1721.39471 1134.05017 c
+1710.14485 1119.80013 1692.89461 1108.55027 1681.01943 1092.17537 c
+1669.14454 1075.80047 1662.64469 1054.30110 1658.14441 1033.17619 c
+1653.64441 1012.05128 1651.14454 991.30139 1648.01934 977.30135 c
+1644.89443 963.30132 1641.14447 956.05115 1637.39452 948.80126 C
+S
+
+%ClearClipping
+@rs
+@gr
+@sv
+
+@rax %Note: Object
+0.00000 0.00000 2039.99981 2039.99981 @E
+/$fm 0 def
+0.00000 2039.99981 m
+2039.99981 2039.99981 L
+2039.99981 0.00000 L
+0.00000 0.00000 L
+0.00000 2039.99981 L
+@c
+N
+
+%%PageTrailer
+@rs
+@rs
+%%Trailer
+@EndSysCorelDict
+end
+%%DocumentSuppliedResources: procset wCorel22Dict 22.0 0
+[/EMC pdfmark
+%%EOF

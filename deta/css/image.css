@@ -1,0 +1,10 @@
+/* Image style */
+#scrollUp {
+    background-image: url("../img/button@2x-p.png");
+    bottom: 75px;
+    right: 15px;
+    width: 40px;    /* Width of image */
+    height: 55px;   /* Height of image */
+    z-index: 1;
+    background-size: contain;
+}
